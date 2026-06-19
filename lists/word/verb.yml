@@ -813,6 +813,8 @@ billowed
 bind
 binding
 binds
+bioluminesce
+bioreact
 biosynthesized
 birdied
 birthed
@@ -1391,6 +1393,7 @@ chose
 chosen
 christened
 christsake
+chromatize
 chromed
 chronicled
 chuck
@@ -2145,6 +2148,8 @@ cushioning
 cut
 cuts
 cutting
+cyberize
+cyberpunkify
 cycled
 cycles
 dabbed
@@ -2248,6 +2253,7 @@ declining
 decompose
 decomposes
 decomposing
+deconstruct
 decorate
 decorated
 decorating
@@ -3836,6 +3842,7 @@ found
 founded
 foundering
 founding
+fractalize
 fractionated
 fractured
 fractures
@@ -4024,6 +4031,7 @@ glinting
 glisten
 glistened
 glistening
+glitch
 glittered
 glittering
 gloated
@@ -4366,6 +4374,7 @@ holds
 holed
 hollered
 hollering
+holograph
 holored
 holstered
 home
@@ -4833,6 +4842,7 @@ iodinated
 iodinating
 ionized
 ionizing
+iridesce
 iron
 ironed
 ironing
@@ -5635,6 +5645,7 @@ name
 named
 names
 naming
+nanoprocess
 napped
 napping
 narcotizes
@@ -5926,6 +5937,7 @@ overpowered
 overpowering
 overpowers
 overpriced
+overprocess
 overran
 overrated
 overreach
@@ -6186,6 +6198,7 @@ photograph
 photographed
 photographing
 photographs
+photosynthesize
 phrase
 phrased
 phrasing
@@ -6238,6 +6251,7 @@ pitching
 pitied
 pity
 pivoting
+pixelate
 placating
 place
 placed
@@ -6819,6 +6833,7 @@ rapping
 rarified
 rasped
 rasping
+rasterize
 rate
 rated
 rates
@@ -6834,6 +6849,7 @@ rattled
 rattles
 rattling
 raving
+raytrace
 razing
 reach
 reached
@@ -6905,6 +6921,7 @@ rebuked
 rebut
 rebutted
 recalculated
+recalibrate
 recall
 recalled
 recalling
@@ -6943,22 +6960,26 @@ recoil
 recoiled
 recollect
 recollected
+recolor
 recommence
 recommend
 recommended
 recommending
 recommends
+reconceptualize
 reconcile
 reconciled
 reconciles
 reconciling
 recond
 reconditioning
+reconfigure
 reconsider
 reconsidered
 reconstruct
 reconstructed
 reconstructs
+recontextualize
 reconvened
 reconvenes
 reconverting
@@ -7067,6 +7088,7 @@ regard
 regarded
 regarding
 regards
+regenerate
 regenerates
 regenerating
 regimented
@@ -7183,6 +7205,7 @@ reminisced
 reminisces
 reminiscing
 remitted
+remix
 remodeled
 remodeling
 remolding
@@ -7215,6 +7238,7 @@ reorder
 reorganize
 reorganized
 reorganizing
+reorient
 reoriented
 repaid
 repainting
@@ -7248,6 +7272,7 @@ reported
 reporting
 reports
 reposed
+reposition
 represent
 represented
 representing
@@ -7263,6 +7288,7 @@ reproduce
 reproduced
 reproduces
 reproducing
+reprogram
 repudiate
 repudiated
 repudiating
@@ -7278,6 +7304,7 @@ requires
 requiring
 requisitioned
 reread
+rescale
 rescind
 rescinded
 rescue
@@ -7359,6 +7386,7 @@ resuming
 resurrected
 resurrecting
 resuspended
+resynthesize
 retail
 retailing
 retain
@@ -7580,7 +7608,6 @@ rumpled
 run
 runaway
 rung
-runing
 running
 runs
 ruptured
@@ -8231,6 +8258,7 @@ soil
 soiled
 solace
 solaced
+solarpunkify
 sold
 solder
 soldered
@@ -8500,6 +8528,7 @@ stealing
 steals
 steamed
 steaming
+steampunkify
 steeled
 steeped
 steer
@@ -9047,7 +9076,6 @@ thickens
 thieving
 thin
 think
-thinkin
 thinking
 thinks
 thinned
@@ -9230,7 +9258,6 @@ transcends
 transcribe
 transcribed
 transfer
-transfered
 transferred
 transferring
 transfers
@@ -9394,6 +9421,7 @@ undermined
 undermining
 underpins
 underplayed
+underprocess
 underrate
 underrated
 underscore
@@ -9544,6 +9572,7 @@ varityping
 vary
 varying
 vaulting
+vectorize
 veer
 veered
 veering
@@ -9615,6 +9644,7 @@ vouchsafes
 vowed
 vowing
 vows
+voxelate
 vulcanized
 vying
 wadded
