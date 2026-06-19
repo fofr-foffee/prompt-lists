@@ -1730,91 +1730,91 @@
   "plot.action": {
     "title": "Action plots",
     "category": "plot",
-    "total": 66,
+    "total": 84,
     "examples": [
-      "saving a kidnapped vip or important figure",
-      "rescuing a loved one from danger"
+      "battling a high-tech pirate fleet in international waters",
+      "infiltrating an underground gladiatorial arena"
     ]
   },
   "plot.arthouse": {
     "title": "Arthouse plots",
     "category": "plot",
-    "total": 66,
+    "total": 84,
     "examples": [
-      "battling with a chronic illness",
-      "being held captive"
+      "facing a natural disaster",
+      "investigating a mysterious disappearance"
     ]
   },
   "plot.fantasy": {
     "title": "Fantasy plots",
     "category": "plot",
-    "total": 66,
+    "total": 84,
     "examples": [
-      "forging a legendary blade from fallen starlight",
-      "bargaining with an ancient primordial deity"
+      "protecting a village or town from harm",
+      "saving the world from an impending disaster"
     ]
   },
   "plot.general": {
     "title": "General plots",
     "category": "plot",
-    "total": 109,
+    "total": 127,
     "examples": [
-      "renovating a historic but run-down house",
-      "learning to dance"
+      "trying to survive a chaotic family reunion at an isolated lake cabin",
+      "confronting personal demons"
     ]
   },
   "plot.horror": {
     "title": "Horror plots",
     "category": "plot",
-    "total": 65,
+    "total": 83,
     "examples": [
-      "surviving a supernatural apocalypse",
-      "investigating a series of children's toys that seem to possess life"
+      "fighting against an evil spirit",
+      "confronting a parasitic fungus that makes its hosts reenact their happiest memories"
     ]
   },
   "plot.musical": {
     "title": "Musical plots",
     "category": "plot",
-    "total": 66,
+    "total": 84,
     "examples": [
-      "dealing with the ups and downs of the music industry",
-      "discovering a hidden singing talent in an unassuming street busker"
+      "finding the courage to experiment with different musical styles",
+      "dealing with the pressure of success"
     ]
   },
   "plot.romance": {
     "title": "Romance plots",
     "category": "plot",
-    "total": 65,
+    "total": 83,
     "examples": [
-      "finding love while pursuing personal goals",
-      "surviving a test of love"
+      "going on a romantic adventure or journey",
+      "overcoming addiction or other personal struggles"
     ]
   },
   "plot.scifiCyberpunk": {
     "title": "Sci-fi cyberpunk plots",
     "category": "plot",
-    "total": 66,
+    "total": 84,
     "examples": [
-      "overcoming personal limitations through technology",
-      "escaping from a dangerous virtual game or simulation"
+      "surviving a cybernetic assassin squad sent to eliminate an underground whistleblower",
+      "replacing a damaged neural processor before memory corruption sets in"
     ]
   },
   "plot.scifi": {
     "title": "Sci-fi plots",
     "category": "plot",
-    "total": 185,
+    "total": 203,
     "examples": [
-      "a group of astronauts must navigate a deadly asteroid field to save humanity",
-      "destroying a rogue planet or moon"
+      "stopping a space-based weapons threat",
+      "escaping a space-based biological disaster"
     ]
   },
   "plot.war": {
     "title": "War plots",
     "category": "plot",
-    "total": 66,
+    "total": 84,
     "examples": [
-      "carrying out a dangerous mission",
-      "participating in a counter-attack or retaliation"
+      "participating in a rescue mission",
+      "overcoming moral conflicts or personal demons"
     ]
   },
   "science.astronomy": {
@@ -1822,8 +1822,8 @@
     "category": "science",
     "total": 54,
     "examples": [
-      "event horizon",
-      "comet trail"
+      "big bang",
+      "supernova"
     ]
   },
   "science.chemicalElement": {
@@ -1831,8 +1831,8 @@
     "category": "science",
     "total": 146,
     "examples": [
-      "tungsten",
-      "lawrencium"
+      "thulium",
+      "actinium"
     ]
   },
   "science.geometry": {
@@ -1840,8 +1840,8 @@
     "category": "science",
     "total": 117,
     "examples": [
-      "tiling",
-      "chaos theory"
+      "henon attractor",
+      "hyperbolic geometry"
     ]
   },
   "science.medicalImages": {
@@ -1849,8 +1849,8 @@
     "category": "science",
     "total": 45,
     "examples": [
-      "doppler imaging",
-      "cone beam ct"
+      "pet scan",
+      "fmri"
     ]
   },
   "set.describeStyle": {
@@ -1858,8 +1858,8 @@
     "category": "set",
     "total": 17756,
     "examples": [
-      "abstract expressionistic color fields",
-      "light purple and white"
+      "rim light",
+      "indigo and gold"
     ]
   },
   "set.describeSubject": {
@@ -1867,8 +1867,8 @@
     "category": "set",
     "total": 139614,
     "examples": [
-      "boxing match on a large stage at a convention",
-      "a japanese black kimono hung on a projector"
+      "a fairy with wings in a dress",
+      "an artistic illustration from the philly blue stars"
     ]
   },
   "set.memeDescription": {
@@ -1876,8 +1876,8 @@
     "category": "set",
     "total": 44,
     "examples": [
-      "chad vs. virgin meme - comparison of stereotypical alpha and beta males",
-      "harlem shake meme - group suddenly dancing wildly to song"
+      "distracted girlfriend meme - woman looking back at another man",
+      "area 51 raid meme - joke event to storm secret military base"
     ]
   },
   "set.meme": {
@@ -1885,8 +1885,8 @@
     "category": "set",
     "total": 44,
     "examples": [
-      "distracted boyfriend meme",
-      "change my mind meme"
+      "ain't nobody got time for that meme",
+      "expectation vs. reality meme"
     ]
   },
   "set.moviegenBench": {
@@ -1894,8 +1894,8 @@
     "category": "set",
     "total": 1003,
     "examples": [
-      "The person's forehead creased with worry as he listened to bad news.",
-      "A horse wearing roller skates, gracefully gliding through a city park."
+      "A close-up shot of a person's face as he wakes up confused and disoriented in an abandoned bedroom.",
+      "A person is happily munching on a bag of chips while watching TV."
     ]
   },
   "set.parti": {
@@ -1903,8 +1903,8 @@
     "category": "set",
     "total": 1632,
     "examples": [
-      "a sport car melting into a clock, surrealist painting in the style of Salvador Dali",
-      "a golden doorknocker on a red door"
+      "the silhouette of the Milllenium Wheel at dusk",
+      "a paranoid android freaking out and jumping into the air because it is surrounded by colorful Easter eggs"
     ]
   },
   "sport.all": {
@@ -1912,8 +1912,8 @@
     "category": "sport",
     "total": 470,
     "examples": [
-      "enduro mountain biking",
-      "bodyboarding"
+      "jiu-jitsu",
+      "épée fencing"
     ]
   },
   "thing.adjective": {
@@ -1921,8 +1921,8 @@
     "category": "thing",
     "total": 71,
     "examples": [
-      "aged",
-      "chalky"
+      "knotty",
+      "brittle"
     ]
   },
   "thing.city": {
@@ -1930,8 +1930,8 @@
     "category": "thing",
     "total": 216,
     "examples": [
-      "delivery truck",
-      "bank"
+      "yoga studio",
+      "cigarette store"
     ]
   },
   "thing.everyday": {
@@ -1939,8 +1939,8 @@
     "category": "thing",
     "total": 243,
     "examples": [
-      "sleeping bag",
-      "tarp"
+      "pan",
+      "book"
     ]
   },
   "thing.fantasy": {
@@ -1948,8 +1948,8 @@
     "category": "thing",
     "total": 146,
     "examples": [
-      "grimoire",
-      "burn mark"
+      "pegasus",
+      "defender"
     ]
   },
   "thing.gadget": {
@@ -1957,8 +1957,8 @@
     "category": "thing",
     "total": 417,
     "examples": [
-      "electronic tuner",
-      "spectrum analyzer"
+      "dishwasher",
+      "3d printer controller"
     ]
   },
   "thing.icon": {
@@ -1966,8 +1966,8 @@
     "category": "thing",
     "total": 132,
     "examples": [
-      "headphones",
-      "piano"
+      "x mark",
+      "music note"
     ]
   },
   "thing.office": {
@@ -1975,8 +1975,8 @@
     "category": "thing",
     "total": 68,
     "examples": [
-      "balance sheet",
-      "atm machine"
+      "report cover",
+      "monitor"
     ]
   },
   "thing.scary": {
@@ -1984,8 +1984,8 @@
     "category": "thing",
     "total": 211,
     "examples": [
-      "ghostly apparitions in photographs",
-      "disembodied laughter"
+      "bizarre rituals",
+      "dark tunnels"
     ]
   },
   "thing.sciFi": {
@@ -1993,8 +1993,8 @@
     "category": "thing",
     "total": 204,
     "examples": [
-      "nuclear fusion reactor",
-      "wormhole generator"
+      "space tourism shuttle",
+      "space station habitat module"
     ]
   },
   "thing.space": {
@@ -2002,8 +2002,8 @@
     "category": "thing",
     "total": 159,
     "examples": [
-      "quasars",
-      "lachesis"
+      "eurydome",
+      "ic 1101"
     ]
   },
   "thing.summer": {
@@ -2011,8 +2011,8 @@
     "category": "thing",
     "total": 70,
     "examples": [
-      "outdoor patio umbrella",
-      "inner tube"
+      "camping tent",
+      "insect repellent"
     ]
   },
   "time.century": {
@@ -2020,8 +2020,8 @@
     "category": "time",
     "total": 37,
     "examples": [
-      "14th century",
-      "12th century"
+      "15th century",
+      "11th century"
     ]
   },
   "time.dayOfYear": {
@@ -2029,8 +2029,8 @@
     "category": "day",
     "total": 387,
     "examples": [
-      "october 12",
-      "october 17"
+      "november 24",
+      "april 9"
     ]
   },
   "time.decade": {
@@ -2038,8 +2038,8 @@
     "category": "time",
     "total": 35,
     "examples": [
-      "2040s",
-      "40s"
+      "30s",
+      "60s"
     ]
   },
   "time.era": {
@@ -2047,8 +2047,8 @@
     "category": "time",
     "total": 118,
     "examples": [
-      "jacksonian era",
-      "restoration era"
+      "napoleonic era",
+      "mongol empire"
     ]
   },
   "time.timeOfDay": {
@@ -2056,8 +2056,8 @@
     "category": "time",
     "total": 58,
     "examples": [
-      "half-light",
-      "daybreak"
+      "early morning light",
+      "pre-dawn"
     ]
   },
   "time.year": {
@@ -2065,8 +2065,8 @@
     "category": "year",
     "total": 251,
     "examples": [
-      "1856",
-      "1911"
+      "2051",
+      "1992"
     ]
   },
   "typography.feature": {
@@ -2074,8 +2074,8 @@
     "category": "typography",
     "total": 69,
     "examples": [
-      "extended width",
-      "harmonious proportions"
+      "monolinear strokes",
+      "high x-height"
     ]
   },
   "typography.fontType": {
@@ -2083,8 +2083,8 @@
     "category": "typography",
     "total": 62,
     "examples": [
-      "egyptienne typography",
-      "graffiti typography"
+      "art deco typography",
+      "bitmap typography"
     ]
   },
   "typography.font": {
@@ -2092,8 +2092,8 @@
     "category": "typography",
     "total": 89,
     "examples": [
-      "ibm plex sans font",
-      "brush script font"
+      "zapfino font",
+      "nunito font"
     ]
   },
   "typography.style": {
@@ -2101,8 +2101,8 @@
     "category": "typography",
     "total": 77,
     "examples": [
-      "expanded bold style font",
-      "heavy italic style font"
+      "italic style font",
+      "bubble style font"
     ]
   },
   "typography.wordArt": {
@@ -2110,8 +2110,8 @@
     "category": "typography",
     "total": 137,
     "examples": [
-      "diamond-encrusted text",
-      "jigsaw text"
+      "beaded text",
+      "polka dot text"
     ]
   },
   "vehicle.car": {
@@ -2119,8 +2119,8 @@
     "category": "vehicle",
     "total": 329,
     "examples": [
-      "honda odyssey",
-      "volvo xc40"
+      "tesla model 3",
+      "bugatti divo"
     ]
   },
   "vehicle.classicCar": {
@@ -2128,8 +2128,8 @@
     "category": "vehicle",
     "total": 161,
     "examples": [
-      "1904 ford model c",
-      "1914 buick model b-24"
+      "1936 delahaye 135",
+      "1930 cadillac v-16"
     ]
   },
   "vehicle.famousCar": {
@@ -2137,8 +2137,8 @@
     "category": "vehicle",
     "total": 50,
     "examples": [
-      "bumblebee from transformers",
-      "herbie from the love bug"
+      "the batmobile from batman",
+      "the bluesmobile from the blues brothers"
     ]
   },
   "vehicle.fastCar": {
@@ -2146,8 +2146,8 @@
     "category": "vehicle",
     "total": 98,
     "examples": [
-      "porsche macan turbo",
-      "koenigsegg regera"
+      "lamborghini aventador",
+      "porsche 911 gt1"
     ]
   },
   "vehicle.type": {
@@ -2155,8 +2155,8 @@
     "category": "vehicle",
     "total": 116,
     "examples": [
-      "armored car",
-      "van"
+      "bus",
+      "submarine"
     ]
   },
   "videoGame.action": {
@@ -2164,8 +2164,8 @@
     "category": "video-game",
     "total": 314,
     "examples": [
-      "astral projection",
-      "power sliding"
+      "unleashing a curse",
+      "collecting hidden collectibles"
     ]
   },
   "videoGame.designer": {
@@ -2173,8 +2173,8 @@
     "category": "video-game",
     "total": 68,
     "examples": [
-      "jenova chen",
-      "masaya matsuura"
+      "hideo kojima",
+      "satoshi tajiri"
     ]
   },
   "videoGame.engine": {
@@ -2182,8 +2182,8 @@
     "category": "video-game",
     "total": 68,
     "examples": [
-      "defold",
-      "scumm"
+      "pico-8",
+      "love2d"
     ]
   },
   "videoGame.game": {
@@ -2191,8 +2191,8 @@
     "category": "video-game",
     "total": 320,
     "examples": [
-      "nier: automata",
-      "dark souls iii"
+      "death stranding",
+      "fifa"
     ]
   },
   "videoGame.region": {
@@ -2200,8 +2200,8 @@
     "category": "video-game",
     "total": 118,
     "examples": [
-      "aerial region",
-      "diamond region"
+      "canyon region",
+      "canopy kingdom"
     ]
   },
   "word.adjective": {
@@ -2209,8 +2209,8 @@
     "category": "word",
     "total": 4992,
     "examples": [
-      "immeasurable",
-      "fussy"
+      "modular",
+      "discoid"
     ]
   },
   "word.adverb": {
@@ -2218,8 +2218,8 @@
     "category": "word",
     "total": 1817,
     "examples": [
-      "backward",
-      "melodically"
+      "hardest",
+      "greatly"
     ]
   },
   "word.noun": {
@@ -2227,8 +2227,8 @@
     "category": "word",
     "total": 24409,
     "examples": [
-      "forts",
-      "cribbage"
+      "emergencies",
+      "flickers"
     ]
   },
   "word.verb": {
@@ -2236,8 +2236,8 @@
     "category": "word",
     "total": 9980,
     "examples": [
-      "mailing",
-      "saute"
+      "winced",
+      "catches"
     ]
   }
 }
