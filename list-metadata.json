@@ -188,13 +188,22 @@
       "organic pattern"
     ]
   },
+  "art.aesthetic": {
+    "title": "Visual aesthetics",
+    "category": "art",
+    "total": 33,
+    "examples": [
+      "pastel goth",
+      "fairycore"
+    ]
+  },
   "art.paintingKeyword": {
     "title": "Painting keywords",
     "category": "art",
     "total": 70,
     "examples": [
-      "geometric, abstract, hard-edged, collage",
-      "soft, impressionistic, dreamy, oil pastel"
+      "dynamic, expressionistic, forceful, mixed media",
+      "textured, realistic, detailed, colored pencil"
     ]
   },
   "art.paintingTechnique": {
@@ -202,8 +211,8 @@
     "category": "art",
     "total": 94,
     "examples": [
-      "delicate textural detail",
-      "charcoal drawing tool"
+      "brush painting tool",
+      "simple textural expression"
     ]
   },
   "art.pattern": {
@@ -211,8 +220,8 @@
     "category": "art",
     "total": 100,
     "examples": [
-      "plaid",
-      "aztec"
+      "lace",
+      "small check"
     ]
   },
   "art.sculpture": {
@@ -220,8 +229,8 @@
     "category": "sculpture",
     "total": 70,
     "examples": [
-      "titanium alloy, strong and lightweight metal alloy",
-      "white oak, durable hardwood"
+      "bronze, metal alloy",
+      "alabaster, soft stone"
     ]
   },
   "art.style": {
@@ -229,8 +238,8 @@
     "category": "art",
     "total": 60,
     "examples": [
-      "1950s pulp sci-fi cover",
-      "2d game art"
+      "2d game art",
+      "parallax"
     ]
   },
   "art.type": {
@@ -238,8 +247,8 @@
     "category": "art",
     "total": 189,
     "examples": [
-      "cardmaking",
-      "mosaic"
+      "renaissance",
+      "environmental art"
     ]
   },
   "artist.all": {
@@ -247,8 +256,8 @@
     "category": "artist",
     "total": 1758,
     "examples": [
-      "hirohiko araki",
-      "ren hang"
+      "robert irwin",
+      "roy decarava"
     ]
   },
   "artist.common": {
@@ -256,8 +265,8 @@
     "category": "artist",
     "total": 412,
     "examples": [
-      "simon stalenhag",
-      "vincent di fate"
+      "el greco",
+      "albert bierstadt"
     ]
   },
   "artist.concept": {
@@ -265,8 +274,8 @@
     "category": "concept",
     "total": 33,
     "examples": [
-      "albert bierstadt",
-      "dean ellis"
+      "dean ellis",
+      "chesley bonestell"
     ]
   },
   "artist.dark": {
@@ -274,7 +283,7 @@
     "category": "artist",
     "total": 15,
     "examples": [
-      "peter gric",
+      "daniel merriam",
       "dave mckean"
     ]
   },
@@ -283,8 +292,8 @@
     "category": "artist",
     "total": 56,
     "examples": [
-      "goscinny and uderzo",
-      "beatrix potter"
+      "matt groening",
+      "goscinny and uderzo"
     ]
   },
   "artist.painter": {
@@ -292,8 +301,8 @@
     "category": "famous",
     "total": 38,
     "examples": [
-      "andrew wyeth",
-      "john constable"
+      "gustave courbet",
+      "diego rivera"
     ]
   },
   "artist.withReallyStrongAffects": {
@@ -301,8 +310,8 @@
     "category": "artist",
     "total": 27,
     "examples": [
-      "earnst haeckel",
-      "ravi zupa"
+      "henry ossawa tanner",
+      "greg hildebrandt"
     ]
   },
   "artist.withStrongAffects": {
@@ -310,8 +319,8 @@
     "category": "artist",
     "total": 147,
     "examples": [
-      "earnst haeckel",
-      "sonia delaunay"
+      "camille corot",
+      "john atkinson grimshaw"
     ]
   },
   "audio.soundEffect": {
@@ -319,8 +328,8 @@
     "category": "audio",
     "total": 250,
     "examples": [
-      "train whistle",
-      "thunderous applause"
+      "angry mob shouting",
+      "creaky floorboards"
     ]
   },
   "audio.voice": {
@@ -328,8 +337,8 @@
     "category": "audio",
     "total": 98,
     "examples": [
-      "sibilant voice",
-      "lively voice"
+      "distinctive voice",
+      "lyrical voice"
     ]
   },
   "business.brand": {
@@ -337,8 +346,8 @@
     "category": "business",
     "total": 287,
     "examples": [
-      "levi's",
-      "sony playstation"
+      "lyft",
+      "xiaomi"
     ]
   },
   "character.action": {
@@ -346,8 +355,8 @@
     "category": "character",
     "total": 49,
     "examples": [
-      "a bodyguard",
-      "a military commander"
+      "a covert operative",
+      "a bomb squad specialist"
     ]
   },
   "character.anime": {
@@ -355,8 +364,8 @@
     "category": "character",
     "total": 165,
     "examples": [
-      "kurisu makise",
-      "nami"
+      "frieza",
+      "hiei"
     ]
   },
   "character.child": {
@@ -364,8 +373,8 @@
     "category": "character",
     "total": 54,
     "examples": [
-      "a young fashion designer",
-      "a young ninja warrior"
+      "a young fire fighter",
+      "a young nurse"
     ]
   },
   "character.comingOfAge": {
@@ -373,7 +382,7 @@
     "category": "character",
     "total": 51,
     "examples": [
-      "a young foster parent",
+      "a school athlete",
       "a young superhero"
     ]
   },
