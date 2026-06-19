@@ -28,19 +28,16 @@ Conventions: entries **lowercase**, one per line, **no duplicates**, kept tidy
 ## How to make a change
 1. Add or edit the relevant `lists/<category>/<name>.yml` (or create a new file for a
    new list — see proposals below).
-2. Run the repo's own checks (NOT pytest/ruff — this is a JS/npm repo):
-   ```
-   npm ci                              # NOT `npm install` — ci won't rewrite package-lock.json
-   npm run sanitise && npm run build   # regenerates lists.json + list-metadata.json
-   npm test                            # StandardJS lint
-   ```
-3. **Commit ONLY**: your edited/created `.yml` file(s) AND the regenerated
-   `lists.json` / `list-metadata.json`. **Do NOT commit `package-lock.json` or
-   `node_modules`** — if `npm ci` or a tool touched the lockfile, `git checkout --
-   package-lock.json` before committing. Never hand-edit the generated json.
-4. **Stay strictly in the category/files the issue names** — if the issue says
+2. **Commit ONLY your edited/created `lists/<category>/<name>.yml` source file(s).**
+   Do NOT run the build and do NOT commit the generated artifacts — `lists.json`,
+   `list-metadata.json`, `package-lock.json`, `node_modules`. Those are regenerated
+   automatically on merge by a GitHub Action (`.github/workflows/build.yml`), so
+   touching them in a PR just causes conflicts. If you want to sanity-check your YAML
+   you may run `npm run build` locally, but then `git checkout -- lists.json
+   list-metadata.json package-lock.json` so they're NOT in your commit.
+3. **Stay strictly in the category/files the issue names** — if the issue says
    `lists/animal/*`, only touch animal lists. Do not wander into other categories.
-5. Open the PR with `gh pr create` (you have gh + the token).
+4. Open the PR with `gh pr create` (you have gh + the token).
 
 ## The work (task types)
 1. **Review/audit** an existing list: dedupe, fix typos/casing, flag low-quality or
@@ -53,5 +50,4 @@ Conventions: entries **lowercase**, one per line, **no duplicates**, kept tidy
    PR body a crisp pitch: what the list is, why it's useful, the example entries.
 
 ## Definition of done
-The `.yml` is valid, conventions hold, `npm run build` regenerates cleanly, `npm test`
-passes, and the PR body explains the change (+ research sources where relevant).
+The `.yml` is valid, conventions hold, the PR body explains the change (+ research sources where relevant).
