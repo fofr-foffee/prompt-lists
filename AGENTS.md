@@ -30,13 +30,17 @@ Conventions: entries **lowercase**, one per line, **no duplicates**, kept tidy
    new list — see proposals below).
 2. Run the repo's own checks (NOT pytest/ruff — this is a JS/npm repo):
    ```
-   npm install
+   npm ci                              # NOT `npm install` — ci won't rewrite package-lock.json
    npm run sanitise && npm run build   # regenerates lists.json + list-metadata.json
    npm test                            # StandardJS lint
    ```
-3. Commit the edited `.yml` AND the regenerated `lists.json`/`list-metadata.json`
-   (the build updates them — include them; don't hand-edit them).
-4. Open the PR with `gh pr create` (you have gh + the token).
+3. **Commit ONLY**: your edited/created `.yml` file(s) AND the regenerated
+   `lists.json` / `list-metadata.json`. **Do NOT commit `package-lock.json` or
+   `node_modules`** — if `npm ci` or a tool touched the lockfile, `git checkout --
+   package-lock.json` before committing. Never hand-edit the generated json.
+4. **Stay strictly in the category/files the issue names** — if the issue says
+   `lists/animal/*`, only touch animal lists. Do not wander into other categories.
+5. Open the PR with `gh pr create` (you have gh + the token).
 
 ## The work (task types)
 1. **Review/audit** an existing list: dedupe, fix typos/casing, flag low-quality or
