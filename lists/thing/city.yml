@@ -11,14 +11,17 @@ arcade
 arena
 art gallery
 artisan market
+atm
 auto repair shop
 awning
 bakery
 balcony
 bank
 bar
+barbershop
 baseball field
 basketball court
+beauty salon
 bike lane
 bike rack
 bike rental
@@ -49,6 +52,7 @@ cocktail bar
 coffee shop
 coliseum
 comedy club
+community center
 community garden
 convenience store
 convention center
@@ -57,6 +61,7 @@ crossfit gym
 crosswalk
 dance studio
 delivery truck
+deli
 dentist
 department store
 dmv
@@ -79,7 +84,9 @@ fire station
 fire truck
 flag
 flagpole
+flea market
 florist
+flyover
 food court
 food truck
 football field
@@ -88,6 +95,7 @@ gas station
 gift shop
 graffiti wall
 greek restaurant
+greenhouse
 grocery store
 gym
 hair salon
@@ -97,11 +105,14 @@ historic plaque
 hockey rink
 horse carriage
 hospital
+hostel
+hotel
 ice cream shop
 ice skating rink
 indian restaurant
 italian restaurant
 juice bar
+laundromat
 library
 liquor store
 live theater
@@ -111,7 +122,9 @@ manhole cover
 martial arts studio
 massage parlor
 mexican restaurant
+microbrewery
 monument
+motel
 movie theater
 mural
 museum
@@ -133,6 +146,7 @@ patio
 pawn shop
 pedestrian bridge
 pedestrian crossing
+pedestrian mall
 pedicab
 penthouse
 performing arts center
@@ -153,6 +167,8 @@ public library
 public market
 public restroom
 public telephone
+railway station
+ramen shop
 record store
 recycling bin
 residential building
@@ -172,8 +188,10 @@ skate park
 skyscraper
 smoothie bar
 soccer field
+soup kitchen
 souvenir kiosk
 souvenir shop
+spa
 sports bar
 stadium
 stairway
@@ -198,6 +216,7 @@ thai restaurant
 thrift store
 tour bus
 tourist bus
+town square
 traffic cone
 traffic light
 train
@@ -213,6 +232,7 @@ vegan restaurant
 vegetarian restaurant
 ventilation duct
 water fountain
+water tower
 waterfront promenade
 wheelchair ramp
 wine bar
