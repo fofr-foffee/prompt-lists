@@ -2,9 +2,9 @@
   "animal.all": {
     "title": "All animals",
     "category": "animal",
-    "total": 1858,
+    "total": 1857,
     "examples": [
-      "musk ox",
+      "western diamondback rattlesnake",
       "civet"
     ]
   },
@@ -13,8 +13,8 @@
     "category": "animal",
     "total": 167,
     "examples": [
-      "fowler's toad",
-      "pacific chorus frog"
+      "ghost frog",
+      "oak toad"
     ]
   },
   "animal.bird": {
