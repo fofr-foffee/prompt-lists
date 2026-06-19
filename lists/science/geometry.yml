@@ -2,16 +2,21 @@
 title: Geometrical and mathematical terms
 category: science
 ---
+affine transformation
 annulus
 apollonian gasket
 archimedean
 archimedean solids
+asymptote
 barnsley fern
+bifurcation diagram
 bravais lattice
 buckminster fullerene
-bucky ball
+buckyball
 calabi-yau manifold
 cantor set
+cardioid
+catenary
 catenoid
 cellular automaton
 chaos theory
@@ -24,15 +29,18 @@ crystallographic
 crystallographic symmetry
 cube
 cuboctahedron
+cycloid
 cylinder
 de jong attractor
 deltoidal icositetrahedron
+differential geometry
 directrix
 disdyakis dodecahedron
 dodecahedron
 dragon curve
 ellipsoid
 euclidean geometry
+euler characteristic
 fibonacci spiral
 fractal
 fractal art
@@ -40,21 +48,26 @@ fractal circle
 fractal curve
 fractal dimension
 fractal pattern
+geodesic
 geodesic dome
 geometric
 golden ratio
 golden spiral
 graph theory
 group theory
+gyroid
 helicoid
 henon attractor
 hexecontahedron
 hilbert curve
+homeomorphism
 hyperbola
 hyperbolic geometry
+hyperbolic paraboloid
 hypercube
 icosahedron
 icosidodecahedron
+ikeda attractor
 isometric
 julia 3d fractal
 julia fractal
@@ -64,13 +77,16 @@ kite hexecontahedron
 klein bottle
 knot theory
 koch curve
+koch snowflake
 l-systems
 lattice
+limacon
 lorenz attractor
 lorenz system
 mandelbox
 mandelbrot set
 mandelbulb
+manifold
 menger sponge
 menger sponge fractal
 mobius strip
@@ -79,7 +95,9 @@ non-crystallographic symmetry
 non-euclidean geometry
 non-orientable surface
 octahedron
+orthogonal projection
 parabola
+paraboloid
 parallelepiped
 penrose stairs
 penrose tiling
@@ -90,6 +108,7 @@ platonic solid
 poincare disk
 polyhedra
 projective geometry
+projective plane
 pseudosphere
 quasicrystals
 rhombicuboctahedron
@@ -98,7 +117,9 @@ rossler attractor
 sacred geometry
 sierpinski
 sierpinski carpet
+sierpinski gasket
 sierpinski triangle
+sine curve
 sphere
 spherical geometry
 strange attractor
@@ -106,6 +127,7 @@ superellipse
 superellipsoid
 symmetry
 tessellating
+tessellation
 tesseract
 tetrahedron
 tiling
@@ -113,9 +135,11 @@ topological
 topology
 torus
 triakis octahedron
+triquetra
 truncated cuboctahedron
 truncated icosahedron
 truncated icosidodecahedron
 truncated octahedron
 truncated tetrahedron
+vector space
 voronoi diagram
