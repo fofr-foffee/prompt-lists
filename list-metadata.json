@@ -2,10 +2,10 @@
   "animal.all": {
     "title": "All animals",
     "category": "animal",
-    "total": 1866,
+    "total": 1868,
     "examples": [
       "cinereous vulture",
-      "wax moth"
+      "silver labrador"
     ]
   },
   "animal.amphibian": {
@@ -13,8 +13,8 @@
     "category": "animal",
     "total": 167,
     "examples": [
-      "fire-bellied toad",
-      "ghost frog"
+      "lemur leaf frog",
+      "olm"
     ]
   },
   "animal.bird": {
@@ -22,26 +22,26 @@
     "category": "animal",
     "total": 914,
     "examples": [
-      "golden-winged warbler",
-      "bluethroat"
+      "red-shouldered hawk",
+      "common redpoll"
     ]
   },
   "animal.deepSea": {
     "title": "Deep sea animals",
     "category": "animal",
-    "total": 67,
+    "total": 70,
     "examples": [
-      "bathynomus giganteus",
-      "herring"
+      "berardius arnuxii",
+      "blue whale"
     ]
   },
   "animal.dinosaur": {
     "title": "Dinosaurs",
     "category": "animal",
-    "total": 80,
+    "total": 89,
     "examples": [
-      "weewarrasaurus",
-      "compsognathus"
+      "tuojiangosaurus",
+      "allosaurus"
     ]
   },
   "animal.dogBreed": {
@@ -49,8 +49,8 @@
     "category": "animal",
     "total": 666,
     "examples": [
-      "cão de fila de são miguel",
-      "bolognese"
+      "kokoni",
+      "small münsterländer"
     ]
   },
   "animal.insect": {
@@ -58,17 +58,17 @@
     "category": "animal",
     "total": 129,
     "examples": [
-      "knopper gall",
-      "honey bee"
+      "cynipid gall wasp",
+      "black imported fire ant"
     ]
   },
   "animal.mammal": {
     "title": "Mammals",
     "category": "animal",
-    "total": 180,
+    "total": 182,
     "examples": [
-      "eastern spotted skunk",
-      "fox"
+      "giraffe",
+      "ring tailed lemur"
     ]
   },
   "animal.popular": {
@@ -76,26 +76,26 @@
     "category": "animal",
     "total": 141,
     "examples": [
-      "ram",
-      "peacock"
+      "coyote",
+      "seal"
     ]
   },
   "animal.reptile": {
     "title": "Reptiles",
     "category": "animal",
-    "total": 252,
+    "total": 253,
     "examples": [
-      "slow worm",
-      "tokay gecko"
+      "spotted turtle",
+      "softshell turtle"
     ]
   },
   "animal.sea": {
     "title": "Sea animals",
     "category": "animal",
-    "total": 79,
+    "total": 85,
     "examples": [
-      "dwarf sperm whale",
-      "hourglass dolphin"
+      "arctic seal",
+      "shortfinned pilot whale"
     ]
   },
   "architecture.architect": {
@@ -103,8 +103,8 @@
     "category": "architecture",
     "total": 186,
     "examples": [
-      "pezo von ellrichshausen - minimalism",
-      "auguste perret - concrete"
+      "bernard khoury - brutalism",
+      "carlo mollino - organic"
     ]
   },
   "architecture.extremeLocation": {
@@ -112,8 +112,8 @@
     "category": "architecture",
     "total": 45,
     "examples": [
-      "built into a glacier",
-      "built on top of a rock spire"
+      "on the edge of a volcano",
+      "built into a rocky cave on the beach"
     ]
   },
   "architecture.famousBuilding": {
@@ -121,8 +121,8 @@
     "category": "architecture",
     "total": 122,
     "examples": [
-      "kolumba museum, cologne, germany",
-      "one angel square, manchester, uk"
+      "casa da música, porto, portugal",
+      "kunstmuseum basel, basel, switzerland"
     ]
   },
   "architecture.home": {
@@ -130,8 +130,8 @@
     "category": "architecture",
     "total": 18,
     "examples": [
-      "space station house - futuristic, space-age, autonomous, innovative, sustainable, compact, light-filled, connected, dynamic, innovative",
-      "crystal house - transparent, minimalist, light-filled, innovative, sustainable, dynamic, efficient, ethereal, modern, innovative"
+      "high-tech house - innovative, futuristic, dynamic, minimalist, sustainable, connected, autonomous, efficient, transparent, smart",
+      "solar house - sustainable, efficient, light-filled, autonomous, dynamic, innovative, connected, minimalist, modern, innovative"
     ]
   },
   "architecture.interiorDesign": {
@@ -139,8 +139,8 @@
     "category": "architecture",
     "total": 35,
     "examples": [
-      "traditional interior",
-      "mediterranean interior"
+      "coastal interior design",
+      "transitional interior"
     ]
   },
   "architecture.interiorKeywords": {
@@ -148,8 +148,8 @@
     "category": "interior",
     "total": 100,
     "examples": [
-      "neutral tones with pops of color",
-      "coastal contemporary, seafoam accents"
+      "warm and cozy decor",
+      "mid-century modern, eames chair"
     ]
   },
   "architecture.material": {
@@ -157,8 +157,8 @@
     "category": "architecture",
     "total": 99,
     "examples": [
-      "asphalt",
-      "bamboo"
+      "pvc (polyvinyl chloride)",
+      "wrought iron"
     ]
   },
   "architecture.styleDetailed": {
@@ -166,8 +166,8 @@
     "category": "architecture",
     "total": 100,
     "examples": [
-      "modernism - minimal, functional, geometric, rational, sleek, unornamented",
-      "classicism - symmetrical, elegant, refined, classical, harmonious, balanced"
+      "mission moderne - minimal, symmetrical, simple, geometric, functional, modern",
+      "dutch colonial - gambrel roof, wood shingles, symmetrical, traditional, cozy, charming"
     ]
   },
   "architecture.style": {
@@ -175,8 +175,8 @@
     "category": "architecture",
     "total": 198,
     "examples": [
-      "american renaissance",
-      "flemish baroque"
+      "chicago school",
+      "egyptian revival"
     ]
   },
   "architecture.term": {
@@ -184,8 +184,8 @@
     "category": "architecture",
     "total": 126,
     "examples": [
-      "two-point perspective",
-      "regular rhythm"
+      "matte texture",
+      "organic pattern"
     ]
   },
   "art.aesthetic": {
@@ -193,8 +193,8 @@
     "category": "art",
     "total": 33,
     "examples": [
-      "dieselpunk",
-      "clowncore"
+      "pastel goth",
+      "fairycore"
     ]
   },
   "art.paintingKeyword": {
@@ -202,8 +202,8 @@
     "category": "art",
     "total": 70,
     "examples": [
-      "intense, expressionistic, raw, oil",
-      "moody, expressionistic, textured, oil"
+      "dynamic, expressionistic, forceful, mixed media",
+      "textured, realistic, detailed, colored pencil"
     ]
   },
   "art.paintingTechnique": {
@@ -211,8 +211,8 @@
     "category": "art",
     "total": 94,
     "examples": [
-      "eraser drawing tool",
-      "blender painting tool"
+      "brush painting tool",
+      "simple textural expression"
     ]
   },
   "art.pattern": {
@@ -220,8 +220,8 @@
     "category": "art",
     "total": 100,
     "examples": [
-      "jacquard",
-      "bandana"
+      "lace",
+      "small check"
     ]
   },
   "art.sculpture": {
@@ -229,8 +229,8 @@
     "category": "sculpture",
     "total": 70,
     "examples": [
-      "marble, smooth surface",
-      "patinated bronze, treated bronze"
+      "bronze, metal alloy",
+      "alabaster, soft stone"
     ]
   },
   "art.style": {
@@ -238,8 +238,8 @@
     "category": "art",
     "total": 60,
     "examples": [
-      "visionary hypermaximalism",
-      "highly detailed"
+      "2d game art",
+      "parallax"
     ]
   },
   "art.type": {
@@ -247,8 +247,8 @@
     "category": "art",
     "total": 189,
     "examples": [
-      "yarn bombing",
-      "airbrush painting"
+      "renaissance",
+      "environmental art"
     ]
   },
   "artist.all": {
@@ -256,8 +256,8 @@
     "category": "artist",
     "total": 1758,
     "examples": [
-      "steve henderson",
-      "dean ellis"
+      "robert irwin",
+      "roy decarava"
     ]
   },
   "artist.common": {
@@ -265,8 +265,8 @@
     "category": "artist",
     "total": 412,
     "examples": [
-      "ayami kojima",
-      "robert mccall"
+      "el greco",
+      "albert bierstadt"
     ]
   },
   "artist.concept": {
@@ -274,8 +274,8 @@
     "category": "concept",
     "total": 33,
     "examples": [
-      "alfons maria mucha",
-      "thomas kinkade"
+      "dean ellis",
+      "chesley bonestell"
     ]
   },
   "artist.dark": {
@@ -284,7 +284,7 @@
     "total": 15,
     "examples": [
       "daniel merriam",
-      "jean delville"
+      "dave mckean"
     ]
   },
   "artist.illustrator": {
@@ -292,8 +292,8 @@
     "category": "artist",
     "total": 56,
     "examples": [
-      "jim davis",
-      "arthur rackham"
+      "matt groening",
+      "goscinny and uderzo"
     ]
   },
   "artist.painter": {
@@ -301,7 +301,7 @@
     "category": "famous",
     "total": 38,
     "examples": [
-      "paul cézanne",
+      "gustave courbet",
       "diego rivera"
     ]
   },
@@ -310,8 +310,8 @@
     "category": "artist",
     "total": 27,
     "examples": [
-      "gediminas pranckevicius",
-      "paul lehr"
+      "henry ossawa tanner",
+      "greg hildebrandt"
     ]
   },
   "artist.withStrongAffects": {
@@ -319,7 +319,7 @@
     "category": "artist",
     "total": 147,
     "examples": [
-      "mikalojus konstantinas čiurlionis",
+      "camille corot",
       "john atkinson grimshaw"
     ]
   },
@@ -328,8 +328,8 @@
     "category": "audio",
     "total": 250,
     "examples": [
-      "kissing sound",
-      "kiss on cheek"
+      "angry mob shouting",
+      "creaky floorboards"
     ]
   },
   "audio.voice": {
@@ -337,8 +337,8 @@
     "category": "audio",
     "total": 98,
     "examples": [
-      "high-pitched male voice",
-      "high-pitched female voice"
+      "distinctive voice",
+      "lyrical voice"
     ]
   },
   "business.brand": {
@@ -346,8 +346,8 @@
     "category": "business",
     "total": 287,
     "examples": [
-      "mcdonald's",
-      "vans"
+      "lyft",
+      "xiaomi"
     ]
   },
   "character.action": {
@@ -355,8 +355,8 @@
     "category": "character",
     "total": 49,
     "examples": [
-      "a assassin",
-      "a marksman"
+      "a covert operative",
+      "a bomb squad specialist"
     ]
   },
   "character.anime": {
@@ -364,8 +364,8 @@
     "category": "character",
     "total": 165,
     "examples": [
-      "kallen stadtfeld",
-      "hisoka morow"
+      "frieza",
+      "hiei"
     ]
   },
   "character.child": {
@@ -373,8 +373,8 @@
     "category": "character",
     "total": 54,
     "examples": [
-      "a young ninja",
-      "a young doctor"
+      "a young fire fighter",
+      "a young nurse"
     ]
   },
   "character.comingOfAge": {
@@ -382,8 +382,8 @@
     "category": "character",
     "total": 51,
     "examples": [
-      "a young street artist",
-      "a teenage artist"
+      "a school athlete",
+      "a young superhero"
     ]
   },
   "character.famous": {
@@ -391,8 +391,8 @@
     "category": "character",
     "total": 371,
     "examples": [
-      "pikachu",
-      "cersei lannister"
+      "tom sawyer",
+      "eric cartman"
     ]
   },
   "character.fantasy": {
@@ -400,8 +400,8 @@
     "category": "character",
     "total": 52,
     "examples": [
-      "a satyr",
-      "a demon princess"
+      "a leprechaun",
+      "a light wizard"
     ]
   },
   "character.general": {
@@ -409,8 +409,8 @@
     "category": "character",
     "total": 105,
     "examples": [
-      "a fireman",
-      "a billionaire"
+      "a killer",
+      "a demon"
     ]
   },
   "character.monster": {
