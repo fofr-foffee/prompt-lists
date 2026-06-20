@@ -20,10 +20,10 @@
   "animal.bigCat": {
     "title": "Big cats",
     "category": "animal",
-    "total": 32,
+    "total": 137,
     "examples": [
-      "caracal",
-      "leopard"
+      "tiger",
+      "chinese mountain cat"
     ]
   },
   "animal.bird": {
@@ -31,17 +31,17 @@
     "category": "animal",
     "total": 917,
     "examples": [
-      "common redpoll",
-      "crescent-chested warbler"
+      "eurasian jackdaw",
+      "arctic tern"
     ]
   },
   "animal.butterfly": {
     "title": "Butterflies",
     "category": "animal",
-    "total": 28,
+    "total": 164,
     "examples": [
-      "mourning cloak",
-      "blue morpho"
+      "asian swallowtail",
+      "western pygmy blue"
     ]
   },
   "animal.catBreed": {
@@ -49,8 +49,8 @@
     "category": "animal",
     "total": 41,
     "examples": [
-      "balinese",
-      "persian"
+      "maine coon",
+      "burmilla"
     ]
   },
   "animal.deepSea": {
@@ -58,8 +58,8 @@
     "category": "animal",
     "total": 66,
     "examples": [
-      "dwarf sperm whale",
-      "berardius arnuxii"
+      "lookdown",
+      "hatchetfish"
     ]
   },
   "animal.dinosaur": {
@@ -67,8 +67,8 @@
     "category": "animal",
     "total": 78,
     "examples": [
-      "pegomastax",
-      "supersaurus"
+      "minmi",
+      "spinosaurus"
     ]
   },
   "animal.dogBreed": {
@@ -76,17 +76,17 @@
     "category": "animal",
     "total": 646,
     "examples": [
-      "montenegrin mountain hound",
-      "mackenzie river husky"
+      "tweed water spaniel",
+      "russian toy"
     ]
   },
   "animal.horseBreed": {
     "title": "Horse breeds",
     "category": "animal",
-    "total": 27,
+    "total": 437,
     "examples": [
-      "thoroughbred",
-      "hanoverian"
+      "yili",
+      "haflinger"
     ]
   },
   "animal.insect": {
@@ -94,8 +94,8 @@
     "category": "animal",
     "total": 129,
     "examples": [
-      "pip gall wasp",
-      "sawfly parasitic wasp"
+      "long-horned bee",
+      "mossyrose gall wasp"
     ]
   },
   "animal.mammal": {
@@ -103,8 +103,8 @@
     "category": "animal",
     "total": 180,
     "examples": [
-      "koala",
-      "rhinoceros"
+      "black-backed jackal",
+      "raccoon dog"
     ]
   },
   "animal.marineLife": {
@@ -112,8 +112,8 @@
     "category": "animal",
     "total": 48,
     "examples": [
-      "triggerfish",
-      "sea turtle"
+      "coral",
+      "sea lion"
     ]
   },
   "animal.popular": {
@@ -121,8 +121,8 @@
     "category": "animal",
     "total": 141,
     "examples": [
-      "polar bear",
-      "frog"
+      "sea lion",
+      "ant"
     ]
   },
   "animal.reptile": {
@@ -130,8 +130,8 @@
     "category": "animal",
     "total": 249,
     "examples": [
-      "african fat-tailed gecko",
-      "gopher snake"
+      "loggerhead sea turtle",
+      "uromastyx"
     ]
   },
   "animal.sea": {
@@ -139,8 +139,8 @@
     "category": "animal",
     "total": 82,
     "examples": [
-      "atlantic spotted dolphin",
-      "blainville's beaked whale"
+      "arctic seal",
+      "dwarf sperm whale"
     ]
   },
   "architecture.architect": {
@@ -148,8 +148,8 @@
     "category": "architecture",
     "total": 206,
     "examples": [
-      "aldo van eyck - structuralism",
-      "tadao ando - zen"
+      "claude parent - metabolist",
+      "daniel burnham - beaux-arts"
     ]
   },
   "architecture.architecturalElement": {
@@ -157,8 +157,8 @@
     "category": "architecture",
     "total": 49,
     "examples": [
-      "portcullis",
-      "turret"
+      "bay window",
+      "loggia"
     ]
   },
   "architecture.buildingType": {
@@ -166,8 +166,8 @@
     "category": "architecture",
     "total": 51,
     "examples": [
-      "barn",
-      "pagoda"
+      "bungalow",
+      "obelisk"
     ]
   },
   "architecture.extremeLocation": {
@@ -175,8 +175,8 @@
     "category": "architecture",
     "total": 65,
     "examples": [
-      "on the edge of a volcano crater",
-      "built into a glacier"
+      "in a subterranean lava tube",
+      "built into a cliff"
     ]
   },
   "architecture.famousBuilding": {
@@ -184,8 +184,8 @@
     "category": "architecture",
     "total": 142,
     "examples": [
-      "bloomberg european headquarters, london, uk",
-      "the menil collection, houston, usa"
+      "st. basil's cathedral, moscow, russia",
+      "baku flame towers, baku, azerbaijan"
     ]
   },
   "architecture.home": {
@@ -193,8 +193,8 @@
     "category": "architecture",
     "total": 36,
     "examples": [
-      "kinetic house - moving, adaptive, futuristic, mechanical, dynamic, smart, innovative, responsive, high-tech, geometric",
-      "smart house - connected, innovative, sustainable, efficient, minimalist, autonomous, future-ready, dynamic, innovative, efficient"
+      "space station house - futuristic, space-age, autonomous, innovative, sustainable, compact, light-filled, connected, dynamic, innovative",
+      "solar house - sustainable, efficient, light-filled, autonomous, dynamic, innovative, connected, minimalist, modern, innovative"
     ]
   },
   "architecture.interiorDesign": {
@@ -202,8 +202,8 @@
     "category": "architecture",
     "total": 65,
     "examples": [
-      "zen interior",
-      "scandinavian interior"
+      "cottagecore interior design",
+      "zen interior design"
     ]
   },
   "architecture.interiorKeywords": {
@@ -211,8 +211,8 @@
     "category": "interior",
     "total": 118,
     "examples": [
-      "art deco design",
-      "botanical prints"
+      "french country, floral patterns",
+      "playful design elements"
     ]
   },
   "architecture.interiorStyle": {
@@ -220,8 +220,8 @@
     "category": "architecture",
     "total": 35,
     "examples": [
-      "japandi",
-      "neoclassical"
+      "bauhaus",
+      "brutalist"
     ]
   },
   "architecture.material": {
@@ -229,8 +229,8 @@
     "category": "architecture",
     "total": 120,
     "examples": [
-      "nylon",
-      "smart glass"
+      "uhpc (ultra-high-performance concrete)",
+      "mud brick"
     ]
   },
   "architecture.styleDetailed": {
@@ -239,7 +239,7 @@
     "total": 119,
     "examples": [
       "futurist - dynamic, innovative, abstract, colorful, futuristic, avant-garde",
-      "late modernism - abstract, experimental, sculptural, expressive, innovative, bold"
+      "prairie school - horizontal, low-pitched roofs, clean lines, simple, functional, elegant"
     ]
   },
   "architecture.style": {
@@ -247,8 +247,8 @@
     "category": "architecture",
     "total": 219,
     "examples": [
-      "classic revival",
-      "contemporary"
+      "cretan",
+      "catalan gothic"
     ]
   },
   "architecture.term": {
@@ -256,8 +256,8 @@
     "category": "architecture",
     "total": 149,
     "examples": [
-      "gradual rhythm",
-      "public space"
+      "task lighting",
+      "pattern harmony"
     ]
   },
   "art.aesthetic": {
@@ -265,8 +265,8 @@
     "category": "art",
     "total": 63,
     "examples": [
-      "dreamcore",
-      "vaporwave"
+      "kidcore",
+      "wizardcore"
     ]
   },
   "art.artMedium": {
@@ -275,7 +275,7 @@
     "total": 35,
     "examples": [
       "acrylic paint",
-      "stained glass"
+      "lithograph"
     ]
   },
   "art.artMovement": {
@@ -283,26 +283,26 @@
     "category": "art",
     "total": 44,
     "examples": [
-      "de stijl",
-      "orphism"
+      "jugendstil",
+      "cubism"
     ]
   },
   "art.artSupply": {
     "title": "Art supplies",
     "category": "art",
-    "total": 29,
+    "total": 281,
     "examples": [
-      "graphite pencil",
-      "acrylic paint"
+      "chalk pastel",
+      "enamel paint"
     ]
   },
   "art.backgroundStyle": {
     "title": "Background style",
     "category": "art",
-    "total": 30,
+    "total": 195,
     "examples": [
-      "abstract backdrop",
-      "infinite white background"
+      "raw silk backdrop",
+      "denim fabric texture"
     ]
   },
   "art.decadeAesthetic": {
@@ -310,8 +310,8 @@
     "category": "art",
     "total": 27,
     "examples": [
-      "1970s disco",
-      "1960s mod"
+      "1910s cubism",
+      "1950s greaser"
     ]
   },
   "art.illustrationStyle": {
@@ -319,8 +319,8 @@
     "category": "art",
     "total": 36,
     "examples": [
-      "book cover illustration",
-      "scratchboard illustration"
+      "gouache illustration",
+      "pencil sketch"
     ]
   },
   "art.paintingKeyword": {
@@ -328,8 +328,8 @@
     "category": "art",
     "total": 95,
     "examples": [
-      "organic, abstract, fluid, watercolor",
-      "moody, expressionistic, evocative, oil"
+      "muted, impressionistic, nostalgic, charcoal",
+      "ethereal, surrealistic, dreamlike, watercolor"
     ]
   },
   "art.paintingTechnique": {
@@ -337,8 +337,8 @@
     "category": "art",
     "total": 116,
     "examples": [
-      "canvas painting surface",
-      "blender painting tool"
+      "static textural form",
+      "encaustic painting technique"
     ]
   },
   "art.pattern": {
@@ -346,8 +346,8 @@
     "category": "art",
     "total": 118,
     "examples": [
-      "aztec",
-      "vichy"
+      "trefoil",
+      "basketweave"
     ]
   },
   "art.renderEngine": {
@@ -355,8 +355,8 @@
     "category": "art",
     "total": 35,
     "examples": [
-      "line art render",
-      "cycles"
+      "non-photorealistic rendering",
+      "clay render"
     ]
   },
   "art.sculpture": {
@@ -364,8 +364,8 @@
     "category": "art",
     "total": 92,
     "examples": [
-      "bronze resin, synthetic material with bronze finish",
-      "pewter, alloy of tin, copper, and antimony"
+      "basalt, volcanic rock",
+      "white oak, durable hardwood"
     ]
   },
   "art.style": {
@@ -373,8 +373,8 @@
     "category": "art",
     "total": 83,
     "examples": [
-      "pastel painting",
-      "mixed media"
+      "impasto painting",
+      "depth of field"
     ]
   },
   "art.subculture": {
@@ -382,8 +382,8 @@
     "category": "art",
     "total": 37,
     "examples": [
-      "rockabilly",
-      "pastel goth"
+      "health goth",
+      "hippie"
     ]
   },
   "art.texture": {
@@ -391,8 +391,8 @@
     "category": "art",
     "total": 40,
     "examples": [
-      "bumpy",
-      "metallic"
+      "ribbed",
+      "bumpy"
     ]
   },
   "art.type": {
@@ -400,8 +400,8 @@
     "category": "art",
     "total": 210,
     "examples": [
-      "pottery",
-      "fletching"
+      "digital art",
+      "lapidary"
     ]
   },
   "artist.all": {
@@ -409,8 +409,8 @@
     "category": "artist",
     "total": 1773,
     "examples": [
-      "steven daluz",
-      "emmanuel de critz"
+      "bo bartlett",
+      "robert williams"
     ]
   },
   "artist.common": {
@@ -418,8 +418,8 @@
     "category": "artist",
     "total": 431,
     "examples": [
-      "edward gorey",
-      "mike winkelmann"
+      "emmanuel shiu",
+      "peter gric"
     ]
   },
   "artist.concept": {
@@ -427,7 +427,7 @@
     "category": "concept",
     "total": 52,
     "examples": [
-      "don maitz",
+      "noah bradley",
       "eyvind earle"
     ]
   },
@@ -436,8 +436,8 @@
     "category": "artist",
     "total": 34,
     "examples": [
-      "wayne barlowe",
-      "edmund dulac"
+      "stefan koidl",
+      "bill sienkiewicz"
     ]
   },
   "artist.illustrator": {
@@ -445,8 +445,8 @@
     "category": "artist",
     "total": 75,
     "examples": [
-      "goscinny and uderzo",
-      "william blake"
+      "shirley hughes",
+      "arthur rackham"
     ]
   },
   "artist.painter": {
@@ -454,8 +454,8 @@
     "category": "famous",
     "total": 56,
     "examples": [
-      "gustave courbet",
-      "rembrandt"
+      "paul cézanne",
+      "henri matisse"
     ]
   },
   "artist.withReallyStrongAffects": {
@@ -463,8 +463,8 @@
     "category": "artist",
     "total": 46,
     "examples": [
-      "dr. seuss",
-      "alphonse mucha"
+      "jacek yerka",
+      "jean-michel basquiat"
     ]
   },
   "artist.withStrongAffects": {
@@ -472,8 +472,8 @@
     "category": "artist",
     "total": 171,
     "examples": [
-      "richard dadd",
-      "alfred kubin"
+      "austin briggs",
+      "joseph cornell"
     ]
   },
   "audio.soundEffect": {
@@ -481,8 +481,8 @@
     "category": "audio",
     "total": 272,
     "examples": [
-      "sneezing",
-      "saxophone solo"
+      "clock ticking in a suspenseful scene",
+      "ship horn"
     ]
   },
   "audio.soundTexture": {
@@ -490,8 +490,8 @@
     "category": "audio",
     "total": 38,
     "examples": [
-      "distorted",
-      "dry"
+      "muddy",
+      "muted"
     ]
   },
   "audio.voice": {
@@ -499,8 +499,8 @@
     "category": "audio",
     "total": 131,
     "examples": [
-      "piercing voice",
-      "powerful voice"
+      "commanding voice",
+      "breathless voice"
     ]
   },
   "business.brand": {
@@ -508,8 +508,8 @@
     "category": "business",
     "total": 369,
     "examples": [
-      "oracle",
-      "citigroup"
+      "soundcloud",
+      "epic games"
     ]
   },
   "character.action": {
@@ -517,8 +517,8 @@
     "category": "character",
     "total": 69,
     "examples": [
-      "a soldier",
-      "a hand-to-hand combat expert"
+      "a race car driver",
+      "a secret agent"
     ]
   },
   "character.anime": {
@@ -526,8 +526,8 @@
     "category": "character",
     "total": 185,
     "examples": [
-      "orihime inoue",
-      "ritsu kageyama"
+      "kazuma kuwabara",
+      "kurisu makise"
     ]
   },
   "character.archetype": {
@@ -535,8 +535,8 @@
     "category": "character",
     "total": 28,
     "examples": [
-      "herald",
-      "sovereign"
+      "mentor",
+      "chosen one"
     ]
   },
   "character.child": {
@@ -544,8 +544,8 @@
     "category": "character",
     "total": 72,
     "examples": [
-      "a young prince",
-      "a young violinist"
+      "a young teacher",
+      "a young artist"
     ]
   },
   "character.comingOfAge": {
@@ -553,17 +553,17 @@
     "category": "character",
     "total": 69,
     "examples": [
-      "a misunderstood teenager",
-      "a teenage track star"
+      "a young social media influencer",
+      "a teenage poet"
     ]
   },
   "character.creatureType": {
     "title": "Creature types",
     "category": "character",
-    "total": 35,
+    "total": 260,
     "examples": [
-      "leviathan",
-      "pegasus"
+      "vampire",
+      "mimic"
     ]
   },
   "character.famous": {
@@ -571,8 +571,8 @@
     "category": "character",
     "total": 390,
     "examples": [
-      "saruman",
-      "wallace and gromit"
+      "anna (frozen)",
+      "jay gatsby"
     ]
   },
   "character.fantasyRace": {
@@ -580,8 +580,8 @@
     "category": "character",
     "total": 34,
     "examples": [
-      "genasi",
-      "drow"
+      "minotaur",
+      "siren"
     ]
   },
   "character.fantasy": {
@@ -589,8 +589,8 @@
     "category": "character",
     "total": 70,
     "examples": [
-      "a demon princess",
-      "an elf"
+      "a unicorn",
+      "a dwarf"
     ]
   },
   "character.general": {
@@ -598,8 +598,8 @@
     "category": "character",
     "total": 123,
     "examples": [
-      "a ghostly victim",
-      "a vampire king"
+      "a ghost",
+      "a corporate executive"
     ]
   },
   "character.monster": {
@@ -607,8 +607,8 @@
     "category": "character",
     "total": 130,
     "examples": [
-      "mermaid",
-      "fenrir"
+      "brownie",
+      "pixie"
     ]
   },
   "character.romantic": {
@@ -616,8 +616,8 @@
     "category": "character",
     "total": 57,
     "examples": [
-      "a mysterious admirer",
-      "a romantic rival"
+      "a long-lost love",
+      "a dual-career partner"
     ]
   },
   "character.scifi": {
@@ -625,8 +625,8 @@
     "category": "character",
     "total": 69,
     "examples": [
-      "a deep-space miner",
-      "a starship mechanic"
+      "a rogue ai",
+      "a telepathic individual"
     ]
   },
   "character.superhero": {
@@ -634,8 +634,8 @@
     "category": "character",
     "total": 115,
     "examples": [
-      "she-hulk",
-      "jessica jones"
+      "atom",
+      "martian manhunter"
     ]
   },
   "character.supervillain": {
@@ -643,8 +643,8 @@
     "category": "character",
     "total": 112,
     "examples": [
-      "desaad",
-      "mad hatter"
+      "mysterio",
+      "metallo"
     ]
   },
   "cinematic.animationStudio": {
@@ -652,8 +652,8 @@
     "category": "cinematic",
     "total": 79,
     "examples": [
-      "passione animation",
-      "studio gokumi animation"
+      "sunrise inc. animation",
+      "reelfx creative studios animation"
     ]
   },
   "cinematic.animation": {
@@ -661,17 +661,17 @@
     "category": "cinematic",
     "total": 30,
     "examples": [
-      "anime",
-      "model animation"
+      "rotoscoping",
+      "puppet animation"
     ]
   },
   "cinematic.aspectRatio": {
     "title": "Aspect ratio",
     "category": "cinematic",
-    "total": 25,
+    "total": 163,
     "examples": [
-      "21:9 ultrawide",
-      "1:1 square"
+      "vertical video",
+      "movietone ratio"
     ]
   },
   "cinematic.coloring": {
@@ -679,8 +679,8 @@
     "category": "cinematic",
     "total": 50,
     "examples": [
-      "night-for-day color grading",
-      "duotone color grading"
+      "backlighting",
+      "bleach bypass color grading"
     ]
   },
   "cinematic.director": {
@@ -688,8 +688,8 @@
     "category": "cinematic",
     "total": 62,
     "examples": [
-      "gaspar noé",
-      "edgar wright"
+      "robert rodriguez",
+      "bong joon-ho"
     ]
   },
   "cinematic.effect": {
@@ -697,8 +697,8 @@
     "category": "cinematic",
     "total": 49,
     "examples": [
-      "cineon",
-      "morphing"
+      "film still",
+      "anamorphic"
     ]
   },
   "cinematic.genre": {
@@ -706,8 +706,8 @@
     "category": "cinematic",
     "total": 194,
     "examples": [
-      "spaghetti western",
-      "fantasy adventure"
+      "slapstick comedy",
+      "indie"
     ]
   },
   "cinematic.keyword": {
@@ -715,8 +715,8 @@
     "category": "cinematic",
     "total": 39,
     "examples": [
-      "letterbox",
-      "arri alexa"
+      "16mm film",
+      "8k resolution"
     ]
   },
   "cinematic.lightQuality": {
@@ -724,8 +724,8 @@
     "category": "cinematic",
     "total": 80,
     "examples": [
-      "dusty light",
-      "brilliant light"
+      "matte light",
+      "misty light"
     ]
   },
   "cinematic.moment": {
@@ -733,8 +733,8 @@
     "category": "cinematic",
     "total": 232,
     "examples": [
-      "tilt down from a character's face to an important object, then cut to the character's reaction",
-      "pull focus from a character in the middle ground to another reacting in the foreground"
+      "slow motion pan around a character as they make a life-changing decision",
+      "jump cut closer and closer to a ringing phone the protagonist is hesitant to answer"
     ]
   },
   "cinematic.movie": {
@@ -742,8 +742,8 @@
     "category": "movie",
     "total": 160,
     "examples": [
-      "spirited away (2001)",
-      "house of flying daggers (2004)"
+      "the iron giant (1999)",
+      "blade (1998)"
     ]
   },
   "cinematic.shot": {
@@ -751,8 +751,8 @@
     "category": "cinematic",
     "total": 69,
     "examples": [
-      "tracking zoom shot",
-      "handheld shot"
+      "pan shot",
+      "low-angle shot"
     ]
   },
   "cinematic.tvAnimated": {
@@ -760,8 +760,8 @@
     "category": "cinematic",
     "total": 169,
     "examples": [
-      "spider-man: the animated series",
-      "m.a.s.k"
+      "the tick (animated)",
+      "ed, edd n eddy"
     ]
   },
   "color.all": {
@@ -769,8 +769,8 @@
     "category": "color",
     "total": 70,
     "examples": [
-      "purple",
-      "lemon"
+      "silver",
+      "ivory"
     ]
   },
   "color.colorGrading": {
@@ -778,8 +778,8 @@
     "category": "color",
     "total": 94,
     "examples": [
-      "black and white",
-      "cineon"
+      "log profile",
+      "duotone"
     ]
   },
   "color.colorPalette": {
@@ -787,8 +787,8 @@
     "category": "color",
     "total": 67,
     "examples": [
-      "clashing",
-      "psychedelic palette"
+      "coastal palette",
+      "cosmic palette"
     ]
   },
   "color.depth": {
@@ -796,8 +796,8 @@
     "category": "color",
     "total": 28,
     "examples": [
-      "2-bit",
-      "high color"
+      "1-bit",
+      "5-bit"
     ]
   },
   "color.modifier": {
@@ -805,17 +805,17 @@
     "category": "color",
     "total": 74,
     "examples": [
-      "glowing",
-      "smoky"
+      "luminous",
+      "metallic"
     ]
   },
   "color.monochromeStyle": {
     "title": "Monochrome style",
     "category": "color",
-    "total": 29,
+    "total": 124,
     "examples": [
-      "copper tone",
-      "platinum print style"
+      "monochrome portrait look",
+      "blue filter black and white"
     ]
   },
   "color.pair": {
@@ -823,8 +823,8 @@
     "category": "color",
     "total": 45,
     "examples": [
-      "emerald, gold",
-      "orange, cyan"
+      "lavender, gold",
+      "yellow, violet"
     ]
   },
   "color.palette": {
@@ -832,8 +832,8 @@
     "category": "color",
     "total": 93,
     "examples": [
-      "ocean reef palette - coral pink, sea anemone purple, turquoise, sandy beige, seaweed green",
-      "muted tones palette - dusty rose, muted green, beige, pale gray, soft blue"
+      "autumn harvest palette - burnt orange, mustard yellow, deep red, olive green, rust",
+      "spring blooms palette - pale pink, lavender, soft green, coral pink, yellow"
     ]
   },
   "color.perception": {
@@ -841,8 +841,8 @@
     "category": "color",
     "total": 40,
     "examples": [
-      "bartleson–breneman effect",
-      "opponent process"
+      "bezold–brücke shift",
+      "scotopic vision"
     ]
   },
   "deity.assyrian": {
@@ -850,8 +850,8 @@
     "category": "deity",
     "total": 46,
     "examples": [
-      "enlil wind commander",
-      "pazuzu demon king"
+      "kakka messenger goddess",
+      "nikkal moon princess"
     ]
   },
   "deity.aztec": {
@@ -859,8 +859,8 @@
     "category": "deity",
     "total": 75,
     "examples": [
-      "macuilcuetzpalin",
-      "huitzilopochtli"
+      "huehuecoyotl",
+      "tlaltecuhtli"
     ]
   },
   "deity.babylonian": {
@@ -868,8 +868,8 @@
     "category": "deity",
     "total": 46,
     "examples": [
-      "mamitu oath protector",
-      "nabu writing patron"
+      "nergal death bringer",
+      "ashur empire protector"
     ]
   },
   "deity.celtic": {
@@ -877,8 +877,8 @@
     "category": "deity",
     "total": 58,
     "examples": [
-      "tailtiu",
-      "bran the blessed"
+      "gofannon",
+      "banba"
     ]
   },
   "deity.egyptian": {
@@ -886,8 +886,8 @@
     "category": "deity",
     "total": 101,
     "examples": [
-      "isis",
-      "mehet-weret"
+      "iabet",
+      "heryshaf"
     ]
   },
   "deity.greek": {
@@ -895,8 +895,8 @@
     "category": "deity",
     "total": 102,
     "examples": [
-      "athena",
-      "asclepius"
+      "uranus",
+      "aphrodite"
     ]
   },
   "deity.hindu": {
@@ -904,8 +904,8 @@
     "category": "deity",
     "total": 71,
     "examples": [
-      "chandra",
-      "agni"
+      "vishwakarma",
+      "brahma"
     ]
   },
   "deity.norse": {
@@ -913,17 +913,17 @@
     "category": "deity",
     "total": 74,
     "examples": [
-      "nerthus",
-      "fjorgyn"
+      "lodurr",
+      "sol"
     ]
   },
   "deity.pantheon": {
     "title": "Mythological pantheons",
     "category": "deity",
-    "total": 25,
+    "total": 166,
     "examples": [
-      "arabian",
-      "sumerian"
+      "berber",
+      "sardinian"
     ]
   },
   "deity.roman": {
@@ -931,8 +931,8 @@
     "category": "deity",
     "total": 82,
     "examples": [
-      "faunus",
-      "libertas"
+      "vulcan",
+      "laverna"
     ]
   },
   "deity.shinto": {
@@ -940,8 +940,8 @@
     "category": "deity",
     "total": 75,
     "examples": [
-      "jurojin",
-      "okuninushi (大国主命)"
+      "ninigi (瓊瓊杵尊)",
+      "izanagi (伊邪那岐命)"
     ]
   },
   "deity.sumarian": {
@@ -949,8 +949,8 @@
     "category": "deity",
     "total": 46,
     "examples": [
-      "nisaba wisdom scribe",
-      "an supreme god"
+      "utu sun king",
+      "inanna love goddess"
     ]
   },
   "deity.taoist": {
@@ -958,8 +958,8 @@
     "category": "deity",
     "total": 76,
     "examples": [
-      "chen tuan",
-      "seventy-two earth fiends (七十二地煞)"
+      "queen mother of the west (西王母)",
+      "sun wukong (孫悟空)"
     ]
   },
   "fashion.accessory": {
@@ -967,8 +967,8 @@
     "category": "fashion",
     "total": 174,
     "examples": [
-      "cigarette holder",
-      "arm warmers"
+      "headband",
+      "infinity scarf"
     ]
   },
   "fashion.cultural": {
@@ -976,8 +976,8 @@
     "category": "fashion",
     "total": 117,
     "examples": [
-      "omani dishdasha dress",
-      "samurai hakama pants"
+      "libyan fez hat",
+      "tibetan chuba coat"
     ]
   },
   "fashion.designer": {
@@ -985,8 +985,8 @@
     "category": "fashion",
     "total": 120,
     "examples": [
-      "wales bonner",
-      "moschino"
+      "rag & bone",
+      "tory burch"
     ]
   },
   "fashion.feminine": {
@@ -994,8 +994,8 @@
     "category": "fashion",
     "total": 171,
     "examples": [
-      "swimwear",
-      "summer t-shirt"
+      "fleece jacket",
+      "jumpsuit"
     ]
   },
   "fashion.footwear": {
@@ -1003,8 +1003,8 @@
     "category": "fashion",
     "total": 175,
     "examples": [
-      "wedge boots",
-      "opera pumps"
+      "flats (shoes)",
+      "soccer cleats"
     ]
   },
   "fashion.garment": {
@@ -1012,8 +1012,8 @@
     "category": "fashion",
     "total": 65,
     "examples": [
-      "wrap dress",
-      "waistcoat"
+      "anorak",
+      "apron"
     ]
   },
   "fashion.hairFeminine": {
@@ -1021,8 +1021,8 @@
     "category": "fashion",
     "total": 117,
     "examples": [
-      "goddess braids (hairstyle)",
-      "crown twist (hairstyle)"
+      "knotted updo (hairstyle)",
+      "afro (hairstyle)"
     ]
   },
   "fashion.hairMasculine": {
@@ -1030,8 +1030,8 @@
     "category": "fashion",
     "total": 116,
     "examples": [
-      "short quiff (hairstyle)",
-      "forward sweep (hairstyle)"
+      "crew cut (haircut)",
+      "short layered hair (haircut)"
     ]
   },
   "fashion.masculine": {
@@ -1039,8 +1039,8 @@
     "category": "fashion",
     "total": 192,
     "examples": [
-      "backpack",
-      "harrington jacket"
+      "linen shirt",
+      "vest"
     ]
   },
   "fashion.outfitFeminine": {
@@ -1048,8 +1048,8 @@
     "category": "fashion",
     "total": 78,
     "examples": [
-      "2000s red carpet, satin slip dress over jeans, pointy-toe heels, tiny shoulder bag, silver body glitter, rhinestone belt, lip gloss",
-      "2100s transhuman, transhuman bodysuit, nanotech gloves, nanotech shoes, nanotech belt, nanotech backpack, nanotech wristband, nanotech implant, nanotech earrings"
+      "2035s futuristic chic, silver metallic dress, clear heels, silver clutch, silver hoop earrings, silver bangle bracelets, silver neck choker, silver hair accessory, silver sunglasses",
+      "1940s pin-up, wiggle dress, peep-toe heels, seamed stockings, red lips, curls, polka-dot dress, cat eye glasses, victory rolls"
     ]
   },
   "fashion.scifi": {
@@ -1057,8 +1057,8 @@
     "category": "fashion",
     "total": 66,
     "examples": [
-      "magnetic boots",
-      "gravity boots"
+      "antigravity belt",
+      "plasma-shield coat"
     ]
   },
   "fashion.type": {
@@ -1066,8 +1066,8 @@
     "category": "fashion",
     "total": 70,
     "examples": [
-      "crochet",
-      "athleisure"
+      "balletcore",
+      "avant-garde"
     ]
   },
   "feeling.all": {
@@ -1075,8 +1075,8 @@
     "category": "feeling",
     "total": 550,
     "examples": [
-      "excitement",
-      "angry"
+      "apprehensiveness",
+      "hostile"
     ]
   },
   "feeling.creepy": {
@@ -1084,8 +1084,8 @@
     "category": "feeling",
     "total": 39,
     "examples": [
-      "eerie",
-      "creepy-crawly"
+      "hair-raising",
+      "sinister"
     ]
   },
   "feeling.loved": {
@@ -1093,8 +1093,8 @@
     "category": "feeling",
     "total": 106,
     "examples": [
-      "consideration of spirit",
-      "consoling"
+      "comforting",
+      "uplifting"
     ]
   },
   "feeling.melancholy": {
@@ -1102,8 +1102,8 @@
     "category": "feeling",
     "total": 45,
     "examples": [
-      "somber",
-      "dreary"
+      "hopeless",
+      "aching"
     ]
   },
   "feeling.mood": {
@@ -1111,8 +1111,8 @@
     "category": "feeling",
     "total": 33,
     "examples": [
-      "chaotic",
-      "gritty"
+      "rustic",
+      "cinematic"
     ]
   },
   "feeling.unnerved": {
@@ -1120,8 +1120,8 @@
     "category": "feeling",
     "total": 42,
     "examples": [
-      "disquieted",
-      "uneasy"
+      "uptight",
+      "unhinged"
     ]
   },
   "food.bakery": {
@@ -1129,8 +1129,8 @@
     "category": "food",
     "total": 176,
     "examples": [
-      "swiss roll",
-      "wienerbrød (vienna bread)"
+      "naan",
+      "coffee cake"
     ]
   },
   "food.bbq": {
@@ -1138,26 +1138,26 @@
     "category": "food",
     "total": 41,
     "examples": [
-      "elote",
+      "grilled bell peppers",
       "chicken wings"
     ]
   },
   "food.beverage": {
     "title": "Beverages",
     "category": "food",
-    "total": 30,
+    "total": 224,
     "examples": [
-      "kombucha",
-      "negroni"
+      "eggnog",
+      "vanilla milkshake"
     ]
   },
   "food.bread": {
     "title": "Breads",
     "category": "food",
-    "total": 24,
+    "total": 270,
     "examples": [
-      "soda bread",
-      "baguette"
+      "parotta",
+      "sourdough"
     ]
   },
   "food.breakfast": {
@@ -1165,53 +1165,53 @@
     "category": "food",
     "total": 86,
     "examples": [
-      "quiche lorraine",
-      "croissants"
+      "muffins",
+      "huevos rancheros"
     ]
   },
   "food.cheese": {
     "title": "Cheeses",
     "category": "food",
-    "total": 31,
+    "total": 516,
     "examples": [
-      "gorgonzola",
-      "colby"
+      "queso palmita",
+      "canastra"
     ]
   },
   "food.cocktail": {
     "title": "Cocktails",
     "category": "food",
-    "total": 34,
+    "total": 153,
     "examples": [
-      "paloma",
-      "tequila sunrise"
+      "bee's knees",
+      "champagne cocktail"
     ]
   },
   "food.cookingMethod": {
     "title": "Cooking Methods",
     "category": "food",
-    "total": 30,
+    "total": 97,
     "examples": [
-      "blanching",
-      "pickling"
+      "nixtamalization",
+      "wet curing"
     ]
   },
   "food.cuisine": {
     "title": "Cuisine",
     "category": "food",
-    "total": 122,
+    "total": 340,
     "examples": [
-      "lebanese cuisine",
-      "algerian cuisine"
+      "texan cuisine",
+      "sundanese cuisine"
     ]
   },
   "food.dessert": {
     "title": "Desserts",
     "category": "food",
-    "total": 38,
+    "total": 174,
     "examples": [
-      "bingsu",
-      "clafoutis"
+      "crepe",
+      "milkshake"
     ]
   },
   "food.drink": {
@@ -1219,8 +1219,8 @@
     "category": "food",
     "total": 289,
     "examples": [
-      "snakebite",
-      "mocha"
+      "cider",
+      "sake"
     ]
   },
   "food.fast": {
@@ -1228,8 +1228,8 @@
     "category": "food",
     "total": 164,
     "examples": [
-      "bun cha",
-      "milkshakes"
+      "onion rings",
+      "marinara pizza"
     ]
   },
   "food.fruit": {
@@ -1237,8 +1237,8 @@
     "category": "food",
     "total": 134,
     "examples": [
-      "mandarinquat",
-      "plumcot"
+      "papaya",
+      "blueberry grape"
     ]
   },
   "food.herbSpice": {
@@ -1247,34 +1247,34 @@
     "total": 36,
     "examples": [
       "ginger",
-      "marjoram"
+      "lemongrass"
     ]
   },
   "food.pastaShape": {
     "title": "Pasta Shapes",
     "category": "food",
-    "total": 35,
+    "total": 145,
     "examples": [
-      "capellini",
-      "garganelli"
+      "cavatappi",
+      "pennette"
     ]
   },
   "food.platingStyle": {
     "title": "Plating Styles",
     "category": "food",
-    "total": 28,
+    "total": 104,
     "examples": [
-      "plated dessert",
-      "monochromatic"
+      "natural style",
+      "trio style"
     ]
   },
   "food.tea": {
     "title": "Teas",
     "category": "food",
-    "total": 25,
+    "total": 193,
     "examples": [
-      "chamomile",
-      "ginger tea"
+      "darjeeling",
+      "ginger-honey tea"
     ]
   },
   "food.vegetable": {
@@ -1282,8 +1282,8 @@
     "category": "food",
     "total": 266,
     "examples": [
-      "zucchini",
-      "escarole"
+      "spring greens",
+      "delicata squash"
     ]
   },
   "geography.city": {
@@ -1291,8 +1291,8 @@
     "category": "geography",
     "total": 22955,
     "examples": [
-      "Brenham, Texas, United States",
-      "Talacogon, Caraga, Philippines"
+      "Torrelodones, Madrid, Spain",
+      "Mechraa Bel Ksiri, Gharb-Chrarda-Beni Hssen, Morocco"
     ]
   },
   "geography.country": {
@@ -1300,8 +1300,8 @@
     "category": "geography",
     "total": 199,
     "examples": [
-      "Sierra Leone",
-      "Bahrain"
+      "Vanuatu",
+      "Iraq"
     ]
   },
   "geography.ethnicGroup": {
@@ -1309,8 +1309,8 @@
     "category": "geography",
     "total": 1055,
     "examples": [
-      "galicians",
-      "laks"
+      "tahltan",
+      "nagpuri"
     ]
   },
   "geography.language": {
@@ -1318,8 +1318,8 @@
     "category": "geography",
     "total": 609,
     "examples": [
-      "nepali",
-      "indonesian"
+      "magar",
+      "dakota"
     ]
   },
   "geography.nationality": {
@@ -1327,8 +1327,8 @@
     "category": "geography",
     "total": 206,
     "examples": [
-      "mauritian",
-      "bulgarian"
+      "barbadian",
+      "liberian"
     ]
   },
   "geography.territory": {
@@ -1336,8 +1336,8 @@
     "category": "geography",
     "total": 79,
     "examples": [
-      "Mayotte",
-      "Melilla"
+      "French Guiana",
+      "Macao"
     ]
   },
   "interaction.coupleNegative": {
@@ -1345,8 +1345,8 @@
     "category": "interaction",
     "total": 70,
     "examples": [
-      "feeling regretful with each other",
-      "feeling stressed with each other"
+      "feeling disappointed with each other",
+      "mocking each other's tone"
     ]
   },
   "interaction.couple": {
@@ -1354,8 +1354,8 @@
     "category": "interaction",
     "total": 69,
     "examples": [
-      "feeling jealousy",
-      "having a bonding experience"
+      "sharing a quiet laugh",
+      "facing betrayal"
     ]
   },
   "interaction.crowd": {
@@ -1363,17 +1363,17 @@
     "category": "interaction",
     "total": 64,
     "examples": [
-      "attending a sporting event",
-      "observing a cultural tradition"
+      "attending a concert",
+      "doing the wave at a stadium"
     ]
   },
   "interaction.danceStyle": {
     "title": "Dance styles",
     "category": "interaction",
-    "total": 29,
+    "total": 266,
     "examples": [
-      "hula",
-      "cha-cha"
+      "argentine tango",
+      "mohiniyattam"
     ]
   },
   "interaction.group": {
@@ -1381,8 +1381,8 @@
     "category": "interaction",
     "total": 70,
     "examples": [
-      "taking part in a paranormal investigation",
-      "overcoming addiction"
+      "attempting to break a world record",
+      "attending a high school reunion"
     ]
   },
   "interaction.individualDetailed": {
@@ -1390,8 +1390,8 @@
     "category": "interaction",
     "total": 214,
     "examples": [
-      "bites into a sandwich, wipes mouth with a napkin, and then takes another bite",
-      "plucks a flower, sniffs it, and then tucks it behind an ear"
+      "stretches out on the couch, yawns, and then reaches for the remote",
+      "adjusts a tie, looks in the mirror, and then nods in satisfaction"
     ]
   },
   "interaction.individual": {
@@ -1399,17 +1399,17 @@
     "category": "interaction",
     "total": 424,
     "examples": [
-      "curls hair with a curling iron",
-      "taps a coin on a countertop"
+      "stabs a straw into a juice box",
+      "bites fingernails anxiously"
     ]
   },
   "interaction.martialArt": {
     "title": "Martial arts",
     "category": "interaction",
-    "total": 27,
+    "total": 110,
     "examples": [
-      "sumo",
-      "karate"
+      "systema",
+      "kobudo"
     ]
   },
   "keyword.detailed": {
@@ -1417,8 +1417,8 @@
     "category": "keyword",
     "total": 58,
     "examples": [
-      "layered",
-      "meticulously-detailed"
+      "complex",
+      "clear"
     ]
   },
   "keyword.epic": {
@@ -1426,8 +1426,8 @@
     "category": "keyword",
     "total": 129,
     "examples": [
-      "high-fidelity",
-      "mythic"
+      "marvelous",
+      "ethereal"
     ]
   },
   "keyword.genre": {
@@ -1435,8 +1435,8 @@
     "category": "keyword",
     "total": 65,
     "examples": [
-      "cyber-renaissance",
-      "art deco"
+      "nanopunk",
+      "dieselgoth"
     ]
   },
   "keyword.glitch": {
@@ -1444,8 +1444,8 @@
     "category": "keyword",
     "total": 56,
     "examples": [
-      "image ghosting",
-      "flare streaking"
+      "defect",
+      "banding"
     ]
   },
   "keyword.modifier": {
@@ -1453,8 +1453,8 @@
     "category": "keyword",
     "total": 88,
     "examples": [
-      "60s kitsch and psychedelia",
-      "anaglyph filter"
+      "still life",
+      "realism"
     ]
   },
   "keyword.negative": {
@@ -1462,8 +1462,8 @@
     "category": "keyword",
     "total": 90,
     "examples": [
-      "b&w",
-      "error"
+      "close up",
+      "low-res"
     ]
   },
   "keyword.prayer": {
@@ -1471,8 +1471,8 @@
     "category": "keyword",
     "total": 69,
     "examples": [
-      "high-quality",
-      "exceptional"
+      "high-end",
+      "breathtaking"
     ]
   },
   "keyword.trending": {
@@ -1480,8 +1480,8 @@
     "category": "keyword",
     "total": 36,
     "examples": [
-      "trending on artstation",
-      "trending on pinterest"
+      "trending on dribbble",
+      "trending on instagram"
     ]
   },
   "keyword.unusual": {
@@ -1489,8 +1489,8 @@
     "category": "keyword",
     "total": 62,
     "examples": [
-      "amazing",
-      "bewildering"
+      "confusing",
+      "curious"
     ]
   },
   "music.artist": {
@@ -1498,8 +1498,8 @@
     "category": "music",
     "total": 114,
     "examples": [
-      "the smiths",
-      "billie holiday"
+      "serge gainsbourg",
+      "merle haggard"
     ]
   },
   "music.bpm": {
@@ -1507,8 +1507,8 @@
     "category": "music",
     "total": 42,
     "examples": [
-      "280 bpm",
-      "70 bpm"
+      "165 bpm",
+      "100 bpm"
     ]
   },
   "music.composer": {
@@ -1516,8 +1516,8 @@
     "category": "music",
     "total": 190,
     "examples": [
-      "dmitri shostakovich",
-      "jean-philippe rameau"
+      "elliott carter",
+      "pyotr ilyich tchaikovsky"
     ]
   },
   "music.drop": {
@@ -1525,8 +1525,8 @@
     "category": "music",
     "total": 39,
     "examples": [
-      "acid techno 303 squelch drop",
-      "neurofunk bass growl drop"
+      "breakbeat snare rush drop",
+      "drum and bass roller drop"
     ]
   },
   "music.dynamic": {
@@ -1534,8 +1534,8 @@
     "category": "music",
     "total": 89,
     "examples": [
-      "largamente (broadly, with a wide and expansive manner)",
-      "rubato (flexible tempo, with slight variations in speed)"
+      "maestoso (majestically, with a stately and dignified style)",
+      "brillante (brilliantly, with dazzling and sparkling quality)"
     ]
   },
   "music.feature": {
@@ -1543,8 +1543,8 @@
     "category": "music",
     "total": 206,
     "examples": [
-      "expressive violin solos",
-      "enigmatic spoken-word samples"
+      "atmospheric field recordings",
+      "tantalizingly slow guitar bends"
     ]
   },
   "music.genre": {
@@ -1552,8 +1552,8 @@
     "category": "music",
     "total": 306,
     "examples": [
-      "arabian hip-hop",
-      "world"
+      "latin alternative",
+      "dark pop"
     ]
   },
   "music.harmony": {
@@ -1561,8 +1561,8 @@
     "category": "music",
     "total": 38,
     "examples": [
-      "atonal harmony",
-      "contrapuntal harmony"
+      "modal interchange harmony",
+      "chromatic harmony"
     ]
   },
   "music.instrument": {
@@ -1570,8 +1570,8 @@
     "category": "music",
     "total": 208,
     "examples": [
-      "xylophone",
-      "synthesizer"
+      "rainstick",
+      "bassoon"
     ]
   },
   "music.key": {
@@ -1579,8 +1579,8 @@
     "category": "music",
     "total": 35,
     "examples": [
-      "a major",
-      "f# major"
+      "e major",
+      "g major"
     ]
   },
   "music.melody": {
@@ -1588,8 +1588,8 @@
     "category": "music",
     "total": 94,
     "examples": [
-      "angular melody (with angular intervals)",
-      "folk-inspired melody (drawing from traditional folk music)"
+      "swirling melody (circular and swirling motion)",
+      "harmonized melody (melody supported by accompanying harmonies)"
     ]
   },
   "music.mode": {
@@ -1597,8 +1597,8 @@
     "category": "music",
     "total": 55,
     "examples": [
-      "byzantine scale mode",
-      "hungarian major mode"
+      "neapolitan major mode",
+      "lydian mode"
     ]
   },
   "music.mood": {
@@ -1606,8 +1606,8 @@
     "category": "music",
     "total": 117,
     "examples": [
-      "introspective",
-      "triumphant"
+      "abrasive",
+      "celestial"
     ]
   },
   "music.musicGenre": {
@@ -1615,8 +1615,8 @@
     "category": "music",
     "total": 32,
     "examples": [
-      "electro swing",
-      "glitch hop"
+      "gothic rock",
+      "chamber folk"
     ]
   },
   "music.percussive": {
@@ -1624,8 +1624,8 @@
     "category": "music",
     "total": 148,
     "examples": [
-      "marimba mallet",
-      "tongue drum"
+      "taiko drum",
+      "balafon"
     ]
   },
   "music.recording": {
@@ -1633,8 +1633,8 @@
     "category": "music",
     "total": 72,
     "examples": [
-      "underground recording",
-      "vinyl recording"
+      "unplugged recording",
+      "quadraphonic recording"
     ]
   },
   "music.rhythm": {
@@ -1642,8 +1642,8 @@
     "category": "music",
     "total": 27,
     "examples": [
-      "driving rhythm",
-      "additive rhythm"
+      "shuffle rhythm",
+      "cross rhythm"
     ]
   },
   "music.songSection": {
@@ -1651,17 +1651,17 @@
     "category": "music",
     "total": 37,
     "examples": [
-      "drop",
-      "climax"
+      "breakdown",
+      "call and response"
     ]
   },
   "music.vocalStyle": {
     "title": "Vocal styles",
     "category": "music",
-    "total": 25,
+    "total": 187,
     "examples": [
-      "rapping",
-      "screaming"
+      "ezenggileer",
+      "keening"
     ]
   },
   "music.vocal": {
@@ -1669,17 +1669,17 @@
     "category": "music",
     "total": 119,
     "examples": [
-      "reverb-drenched vocals",
-      "raw vocals"
+      "operatic belting",
+      "dynamic vocals"
     ]
   },
   "mythical.artifact": {
     "title": "Magical artifacts",
     "category": "mythical",
-    "total": 33,
+    "total": 215,
     "examples": [
-      "dreamcatcher",
-      "ancient grimoire"
+      "aegis",
+      "ameno-ukihashi"
     ]
   },
   "mythical.chinese": {
@@ -1687,8 +1687,8 @@
     "category": "mythical",
     "total": 84,
     "examples": [
-      "rushou (蓐收)",
-      "ba (巴)"
+      "zhong kui (鍾馗)",
+      "hundun (混沌)"
     ]
   },
   "mythical.dndRace": {
@@ -1696,8 +1696,8 @@
     "category": "mythical",
     "total": 66,
     "examples": [
-      "khenra",
-      "warforged"
+      "grung",
+      "hexblood"
     ]
   },
   "mythical.dragon": {
@@ -1705,8 +1705,8 @@
     "category": "mythical",
     "total": 86,
     "examples": [
-      "korean yong dragon",
-      "chinese fucanglong dragon"
+      "etruscan voltumna dragon",
+      "chinese azure dragon (qinglong) dragon"
     ]
   },
   "mythical.magicTheGathering": {
@@ -1714,8 +1714,8 @@
     "category": "mythical",
     "total": 32359,
     "examples": [
-      "sproutback trudge",
-      "gaea's gift"
+      "rorix bladewing",
+      "garenbrig paladin"
     ]
   },
   "mythical.magicType": {
@@ -1723,8 +1723,8 @@
     "category": "mythical",
     "total": 35,
     "examples": [
-      "alchemy",
-      "blood magic"
+      "evocation",
+      "biomancy"
     ]
   },
   "mythical.mythicalCreature": {
@@ -1732,8 +1732,8 @@
     "category": "mythical",
     "total": 48,
     "examples": [
-      "wendigo",
-      "banshee"
+      "cyclops",
+      "kelpie"
     ]
   },
   "nature.areaOfNaturalBeauty": {
@@ -1741,8 +1741,8 @@
     "category": "natural",
     "total": 626,
     "examples": [
-      "nile river",
-      "oshikoto lake"
+      "laguna torre",
+      "jiuzhaigou national park"
     ]
   },
   "nature.biome": {
@@ -1750,8 +1750,8 @@
     "category": "nature",
     "total": 27,
     "examples": [
-      "rainforest",
-      "boreal forest"
+      "mangrove",
+      "tropical dry forest"
     ]
   },
   "nature.cloudType": {
@@ -1759,8 +1759,8 @@
     "category": "nature",
     "total": 26,
     "examples": [
-      "altocumulus",
-      "cirrus"
+      "roll cloud",
+      "kelvin-helmholtz cloud"
     ]
   },
   "nature.flower": {
@@ -1768,8 +1768,8 @@
     "category": "nature",
     "total": 516,
     "examples": [
-      "persian buttercup (ranunculus asiaticus)",
-      "emerald creeper (asarina procumbens)"
+      "queen of the night (selenicereus grandiflorus)",
+      "chives (allium schoenoprasum)"
     ]
   },
   "nature.fungus": {
@@ -1777,8 +1777,8 @@
     "category": "nature",
     "total": 214,
     "examples": [
-      "slender parasol mushroom",
-      "old man of the woods mushroom"
+      "pink oyster mushroom",
+      "tawny grisette mushroom"
     ]
   },
   "nature.gemstone": {
@@ -1786,8 +1786,8 @@
     "category": "nature",
     "total": 376,
     "examples": [
-      "jet (lignite)",
-      "onyx"
+      "hauynite",
+      "coral"
     ]
   },
   "nature.landscape": {
@@ -1796,25 +1796,25 @@
     "total": 30,
     "examples": [
       "alluvial fan",
-      "delta"
+      "peninsula"
     ]
   },
   "nature.mineral": {
     "title": "Minerals",
     "category": "nature",
-    "total": 35,
+    "total": 275,
     "examples": [
-      "emerald",
-      "labradorite"
+      "tourmaline",
+      "fayalite"
     ]
   },
   "nature.moonPhase": {
     "title": "Moon phases",
     "category": "nature",
-    "total": 32,
+    "total": 117,
     "examples": [
-      "dark moon",
-      "quarter moon"
+      "black moon",
+      "last quarter"
     ]
   },
   "nature.naturalPhenomenon": {
@@ -1822,8 +1822,8 @@
     "category": "nature",
     "total": 30,
     "examples": [
-      "catatumbo lightning",
-      "lunar eclipse"
+      "whirlpool",
+      "ice circle"
     ]
   },
   "nature.plant": {
@@ -1831,8 +1831,8 @@
     "category": "nature",
     "total": 37,
     "examples": [
-      "calathea",
-      "zz plant"
+      "dumb cane",
+      "fiddle leaf fig"
     ]
   },
   "nature.sceneModifier": {
@@ -1840,8 +1840,8 @@
     "category": "nature",
     "total": 49,
     "examples": [
-      "overgrown",
-      "picturesque"
+      "pristine",
+      "drizzle"
     ]
   },
   "nature.scene": {
@@ -1849,17 +1849,17 @@
     "category": "nature",
     "total": 84,
     "examples": [
-      "church",
-      "expanse"
+      "town",
+      "copse"
     ]
   },
   "nature.sky": {
     "title": "Skies",
     "category": "nature",
-    "total": 32,
+    "total": 198,
     "examples": [
-      "scattered clouds sky",
-      "aurora borealis sky"
+      "radiant sunbeam sky",
+      "fire rainbow sky"
     ]
   },
   "nature.texture": {
@@ -1867,8 +1867,8 @@
     "category": "nature",
     "total": 167,
     "examples": [
-      "cork",
-      "paisley fabric"
+      "stained glass",
+      "distressed plaster"
     ]
   },
   "nature.treeType": {
@@ -1876,8 +1876,8 @@
     "category": "nature",
     "total": 41,
     "examples": [
-      "chestnut",
-      "banyan"
+      "redwood",
+      "hickory"
     ]
   },
   "nature.tree": {
@@ -1885,8 +1885,8 @@
     "category": "nature",
     "total": 158,
     "examples": [
-      "japanese holly",
-      "northern white cedar"
+      "yaupon holly",
+      "giant sequoia"
     ]
   },
   "nature.tropicalHouseplant": {
@@ -1894,17 +1894,17 @@
     "category": "nature",
     "total": 104,
     "examples": [
-      "dendrobium",
-      "abutilon"
+      "canna indica",
+      "tradescantia zebrina"
     ]
   },
   "nature.waterBody": {
     "title": "Water bodies",
     "category": "nature",
-    "total": 36,
+    "total": 109,
     "examples": [
-      "tributary",
-      "bay"
+      "runnel",
+      "glacier"
     ]
   },
   "nature.weather": {
@@ -1912,8 +1912,8 @@
     "category": "nature",
     "total": 144,
     "examples": [
-      "frosty",
-      "stormy"
+      "aurora borealis",
+      "misty"
     ]
   },
   "nature.wood": {
@@ -1921,17 +1921,17 @@
     "category": "nature",
     "total": 66,
     "examples": [
-      "brazilian cherry",
-      "willow"
+      "bamboo",
+      "quartersawn oak"
     ]
   },
   "people.accent": {
     "title": "Accents",
     "category": "people",
-    "total": 29,
+    "total": 126,
     "examples": [
-      "cajun",
-      "welsh"
+      "alabama",
+      "estuary"
     ]
   },
   "people.beautifulFeminine": {
@@ -1939,8 +1939,8 @@
     "category": "people",
     "total": 48,
     "examples": [
-      "beautiful",
-      "luminous"
+      "mesmerizing",
+      "vivacious"
     ]
   },
   "people.beautifulMasculine": {
@@ -1948,8 +1948,8 @@
     "category": "people",
     "total": 106,
     "examples": [
-      "well-groomed",
-      "jaw-dropping"
+      "affectionate",
+      "courageous"
     ]
   },
   "people.bodyType": {
@@ -1957,8 +1957,8 @@
     "category": "people",
     "total": 115,
     "examples": [
-      "short with compact, dense musculature",
-      "broader midsection, narrower shoulders and hips"
+      "inverted triangle with lean lower body",
+      "well-developed muscles, low body fat"
     ]
   },
   "people.celebrity": {
@@ -1966,8 +1966,8 @@
     "category": "people",
     "total": 646,
     "examples": [
-      "gene hackman",
-      "demi lovato"
+      "rita ora",
+      "olivia munn"
     ]
   },
   "people.common": {
@@ -1975,8 +1975,8 @@
     "category": "people",
     "total": 34,
     "examples": [
-      "lady",
-      "adolescent"
+      "young man",
+      "elder"
     ]
   },
   "people.couple": {
@@ -1984,8 +1984,8 @@
     "category": "people",
     "total": 36,
     "examples": [
-      "husband and wife",
-      "double date"
+      "acquaintances",
+      "classmates"
     ]
   },
   "people.dance": {
@@ -1993,8 +1993,8 @@
     "category": "people",
     "total": 119,
     "examples": [
-      "povada dance",
-      "belly dance"
+      "maypole dance",
+      "butoh dance"
     ]
   },
   "people.expression": {
@@ -2002,8 +2002,8 @@
     "category": "people",
     "total": 448,
     "examples": [
-      "slack-jawed expression with a bewildered look and widened eyes",
-      "open-mouthed smile with nose crinkle and slightly flushed cheeks"
+      "grimace with wrinkled nose and squinted eyes",
+      "puffed-out cheeks with bulging eyes"
     ]
   },
   "people.eyeColor": {
@@ -2011,8 +2011,8 @@
     "category": "people",
     "total": 46,
     "examples": [
-      "emerald green eyes",
-      "dark brown eyes"
+      "pink eyes",
+      "aquamarine eyes"
     ]
   },
   "people.festival": {
@@ -2020,8 +2020,8 @@
     "category": "people",
     "total": 59,
     "examples": [
-      "holi",
-      "up helly aa"
+      "mardi gras",
+      "albuquerque international balloon fiesta"
     ]
   },
   "people.group": {
@@ -2029,8 +2029,8 @@
     "category": "people",
     "total": 71,
     "examples": [
-      "assembly",
-      "folks"
+      "host",
+      "coalition"
     ]
   },
   "people.hairstyle": {
@@ -2038,8 +2038,8 @@
     "category": "people",
     "total": 44,
     "examples": [
-      "spiky hair",
-      "afro"
+      "undercut",
+      "buzz cut"
     ]
   },
   "people.hobby": {
@@ -2047,8 +2047,8 @@
     "category": "people",
     "total": 293,
     "examples": [
-      "collecting concert tickets",
-      "philosophy"
+      "human rights",
+      "mountaineering"
     ]
   },
   "people.job": {
@@ -2056,8 +2056,8 @@
     "category": "people",
     "total": 613,
     "examples": [
-      "medical research assistant",
-      "brewmaster"
+      "receptionist",
+      "courier"
     ]
   },
   "people.makeupStyle": {
@@ -2065,8 +2065,8 @@
     "category": "people",
     "total": 45,
     "examples": [
-      "avant-garde makeup",
-      "anime makeup"
+      "cat eye makeup",
+      "gothic makeup"
     ]
   },
   "people.posePortrait": {
@@ -2074,8 +2074,8 @@
     "category": "people",
     "total": 45,
     "examples": [
-      "walking towards the camera",
-      "against a wall"
+      "profile shot",
+      "propped up on one elbow (resting)"
     ]
   },
   "people.pose": {
@@ -2083,8 +2083,8 @@
     "category": "people",
     "total": 167,
     "examples": [
-      "walking along a path or trail with a relaxed gait",
-      "sitting with legs spread and hands resting on knees"
+      "standing on tiptoes with arms reached upward",
+      "crouching"
     ]
   },
   "people.profession": {
@@ -2092,8 +2092,8 @@
     "category": "people",
     "total": 29,
     "examples": [
-      "gemcutter",
-      "cordwainer"
+      "beekeeper",
+      "blacksmith"
     ]
   },
   "photography.apertureLook": {
@@ -2101,8 +2101,8 @@
     "category": "photography",
     "total": 33,
     "examples": [
-      "out of focus",
-      "swirly bokeh"
+      "selective focus",
+      "razor-sharp focus"
     ]
   },
   "photography.cameraMovement": {
@@ -2110,8 +2110,8 @@
     "category": "photography",
     "total": 33,
     "examples": [
-      "drone flyby",
-      "tilting shot"
+      "dolly shot",
+      "pull out"
     ]
   },
   "photography.camera": {
@@ -2119,17 +2119,17 @@
     "category": "photography",
     "total": 188,
     "examples": [
-      "panasonic lumix s5",
-      "pentax optio wg-1 gps"
+      "fujifilm x-t4",
+      "sony alpha nex-5n"
     ]
   },
   "photography.composition": {
     "title": "Composition",
     "category": "photography",
-    "total": 30,
+    "total": 117,
     "examples": [
-      "foreground interest",
-      "rule of space"
+      "mirror composition",
+      "chiaroscuro"
     ]
   },
   "photography.filmStock": {
@@ -2137,8 +2137,8 @@
     "category": "photography",
     "total": 38,
     "examples": [
-      "kodak portra 400",
-      "cinestill 800t"
+      "ilford hp5",
+      "ilford xp2 super"
     ]
   },
   "photography.film": {
@@ -2146,8 +2146,8 @@
     "category": "photography",
     "total": 102,
     "examples": [
-      "adox silvermax 100 film",
-      "kodak ektachrome e100 film"
+      "kodak professional supra endura vc 800 film",
+      "agfa vista plus 200 film"
     ]
   },
   "photography.landscapeKeyword": {
@@ -2155,8 +2155,8 @@
     "category": "photography",
     "total": 81,
     "examples": [
-      "balance",
-      "stars"
+      "grass",
+      "framing"
     ]
   },
   "photography.landscapeSubjectDetailed": {
@@ -2164,8 +2164,8 @@
     "category": "photography",
     "total": 158,
     "examples": [
-      "a roaring waterfall cascading over rocks",
-      "a breathtaking slot canyon with glowing orange light reflecting off wavy walls"
+      "a tropical rainforest with lush vegetation and exotic wildlife",
+      "a serene estuary with calm waters and sandy beaches"
     ]
   },
   "photography.landscapeSubject": {
@@ -2173,8 +2173,8 @@
     "category": "photography",
     "total": 132,
     "examples": [
-      "crater",
-      "meadow"
+      "satellite dish",
+      "butte"
     ]
   },
   "photography.lensType": {
@@ -2182,8 +2182,8 @@
     "category": "photography",
     "total": 29,
     "examples": [
-      "retrofocus",
-      "cine"
+      "portrait",
+      "apochromatic"
     ]
   },
   "photography.lens": {
@@ -2191,8 +2191,8 @@
     "category": "photography",
     "total": 87,
     "examples": [
-      "fujifilm xf 50-140mm",
-      "nikon z 24-70mm"
+      "300mm",
+      "sony fe 24mm"
     ]
   },
   "photography.lightSource": {
@@ -2200,8 +2200,8 @@
     "category": "photography",
     "total": 48,
     "examples": [
-      "blue hour",
-      "plasma light"
+      "ambient light",
+      "daylight"
     ]
   },
   "photography.light": {
@@ -2209,8 +2209,8 @@
     "category": "photography",
     "total": 136,
     "examples": [
-      "split lighting",
-      "stadium lights"
+      "diffuse lighting",
+      "rainy lighting"
     ]
   },
   "photography.lightingSetup": {
@@ -2218,17 +2218,17 @@
     "category": "photography",
     "total": 39,
     "examples": [
-      "broad lighting",
-      "flat lighting"
+      "kicker lighting",
+      "broad lighting"
     ]
   },
   "photography.perspective": {
     "title": "Perspective",
     "category": "photography",
-    "total": 29,
+    "total": 129,
     "examples": [
-      "exploded view",
-      "frog's-eye view"
+      "orthogonal perspective",
+      "bug's-eye perspective"
     ]
   },
   "photography.photographer": {
@@ -2236,8 +2236,8 @@
     "category": "photography",
     "total": 960,
     "examples": [
-      "fatoumata diabaté (documentary photographer)",
-      "nafise motlaq (documentary photographer)"
+      "zhang dali (conceptual photographer)",
+      "william klein (street photographer)"
     ]
   },
   "photography.portraitPhotographer": {
@@ -2245,8 +2245,8 @@
     "category": "photography",
     "total": 79,
     "examples": [
-      "arnold newman",
-      "elliott erwitt"
+      "sally mann",
+      "edward weston"
     ]
   },
   "photography.shotType": {
@@ -2254,8 +2254,8 @@
     "category": "photography",
     "total": 35,
     "examples": [
-      "eye-level shot",
-      "side-angle shot"
+      "macro shot",
+      "headshot"
     ]
   },
   "photography.summerScene": {
@@ -2263,8 +2263,8 @@
     "category": "photography",
     "total": 47,
     "examples": [
-      "a scenic drive along a winding country road",
-      "a vineyard with rows of grapevines stretching towards the horizon"
+      "a backyard barbecue with smoke rising under strings of warm cafe lights",
+      "a mountain lake surrounded by trees"
     ]
   },
   "photography.summerTropicalBeach": {
@@ -2272,8 +2272,8 @@
     "category": "photography",
     "total": 67,
     "examples": [
-      "the salty taste of sea spray on your lips",
-      "footprints in the wet sand slowly washed away by the incoming tide"
+      "a cold, condensation-ringed glass of coconut water resting on a teak table",
+      "the sight of a brilliant rainbow appearing over the water"
     ]
   },
   "photojournalism.newsExtreme": {
@@ -2281,8 +2281,8 @@
     "category": "photojournalism",
     "total": 68,
     "examples": [
-      "a major new discovery in the world of astronomy",
-      "a major historical artifact is discovered, rewriting history as we know it"
+      "a military coup overthrows the government of a nuclear-armed nation in a sudden overnight raid",
+      "a major new art installation is unveiled in a major city"
     ]
   },
   "photojournalism.newsNormal": {
@@ -2290,8 +2290,8 @@
     "category": "photojournalism",
     "total": 57,
     "examples": [
-      "a massive oil spill, devastating a major coastal community and harming wildlife",
-      "a historic museum heist occurs, with thieves stealing priceless masterpieces overnight"
+      "a historic moment, such as the first manned mission to mars or the discovery of a new planet",
+      "a breakthrough in agricultural technology allows crops to be grown in arid, desert conditions"
     ]
   },
   "photojournalism.newsSpecific": {
@@ -2299,8 +2299,8 @@
     "category": "photojournalism",
     "total": 38,
     "examples": [
-      "a major sporting event: the world cup is held in qatar, bringing together teams from around the world and drawing massive crowds of enthusiastic fans",
-      "a political protest: demonstrators gather outside the white house to protest the government's immigration policies, calling for greater protection for undocumented immigrants and refugees"
+      "a critical space rescue: an international crew of astronauts executes a daring spacewalk to repair a damaged life-support system",
+      "a devastating building collapse: a multi-story residential building in mumbai collapses overnight, triggering a frantic search for survivors"
     ]
   },
   "photojournalism.styleProtest": {
@@ -2308,8 +2308,8 @@
     "category": "photojournalism",
     "total": 38,
     "examples": [
-      "golden hour photography: shooting during the warm, soft light of sunrise or sunset to add a hopeful or dramatic mood to the scene",
-      "intentional camera movement: deliberately moving the camera during a longer exposure to create a dynamic, abstract representation of chaos and action"
+      "high-speed photography: using fast shutter speeds to capture fast-paced action and movement",
+      "creative lighting photography: using creative lighting techniques to add drama and impact to protest images"
     ]
   },
   "photojournalism.types": {
@@ -2317,8 +2317,8 @@
     "category": "photojournalism",
     "total": 87,
     "examples": [
-      "advocacy photojournalism, documenting specific causes to raise awareness and inspire social change",
-      "transportation and infrastructure"
+      "pop culture and entertainment events",
+      "internet and social media"
     ]
   },
   "places.home": {
@@ -2326,17 +2326,17 @@
     "category": "places",
     "total": 103,
     "examples": [
-      "farmhouse",
-      "modular home"
+      "shotgun house",
+      "micro home"
     ]
   },
   "places.interiorSpace": {
     "title": "Interior spaces",
     "category": "places",
-    "total": 59,
+    "total": 481,
     "examples": [
-      "bunker",
-      "workshop"
+      "taxidermy workshop",
+      "cheese shop"
     ]
   },
   "places.public": {
@@ -2344,8 +2344,8 @@
     "category": "places",
     "total": 94,
     "examples": [
-      "art museum",
-      "nature trail"
+      "park",
+      "college campus"
     ]
   },
   "places.roomType": {
@@ -2353,8 +2353,8 @@
     "category": "places",
     "total": 49,
     "examples": [
-      "vestibule",
-      "conservatory"
+      "drawing room",
+      "scullery"
     ]
   },
   "places.room": {
@@ -2362,17 +2362,17 @@
     "category": "room",
     "total": 51,
     "examples": [
-      "cloakroom",
-      "nursery"
+      "media room",
+      "kitchen"
     ]
   },
   "places.urbanFeature": {
     "title": "Urban features",
     "category": "places",
-    "total": 38,
+    "total": 196,
     "examples": [
-      "fire hydrant",
-      "streetlamp"
+      "food truck",
+      "rooftop garden"
     ]
   },
   "plot.action": {
@@ -2380,8 +2380,8 @@
     "category": "plot",
     "total": 66,
     "examples": [
-      "stopping a rogue government agency or corporation",
-      "protecting a witness during a cross-country transfer"
+      "breaking into a secure location",
+      "intercepting a deadly smuggler shipment at sea"
     ]
   },
   "plot.arthouse": {
@@ -2389,8 +2389,8 @@
     "category": "plot",
     "total": 66,
     "examples": [
-      "coping with the loss of a loved one",
-      "dealing with an oppressive regime"
+      "forming a secret society",
+      "experiencing a surreal breakdown of linear time"
     ]
   },
   "plot.fantasy": {
@@ -2398,8 +2398,8 @@
     "category": "plot",
     "total": 66,
     "examples": [
-      "breaking a bloodline curse spanning generations",
-      "protecting a village or town from harm"
+      "bargaining with an ancient primordial deity",
+      "investigating strange occurrences or supernatural events"
     ]
   },
   "plot.general": {
@@ -2407,8 +2407,8 @@
     "category": "plot",
     "total": 109,
     "examples": [
-      "participating in a sporting event",
-      "attending a high school reunion"
+      "escaping a cult",
+      "starting a startup"
     ]
   },
   "plot.horror": {
@@ -2416,8 +2416,8 @@
     "category": "plot",
     "total": 65,
     "examples": [
-      "surviving a night in a museum where the exhibits come alive aggressively",
-      "fighting against a powerful demon"
+      "escaping from a mysterious underground bunker",
+      "investigating an old videotape that curses whoever watches it"
     ]
   },
   "plot.musical": {
@@ -2425,8 +2425,8 @@
     "category": "plot",
     "total": 66,
     "examples": [
-      "learning to play an instrument",
-      "overcoming a voice-damaging vocal chord injury before opening night"
+      "learning to perform with a new musical partner",
+      "dealing with the pressure of being in a popular band"
     ]
   },
   "plot.romance": {
@@ -2434,8 +2434,8 @@
     "category": "plot",
     "total": 65,
     "examples": [
-      "finding love while pursuing personal goals",
-      "rekindling love after a period of distance"
+      "falling in love while teaching each other different languages",
+      "finding unexpected romance while volunteering at a community garden"
     ]
   },
   "plot.scifiCyberpunk": {
@@ -2443,8 +2443,8 @@
     "category": "plot",
     "total": 66,
     "examples": [
-      "searching for a cure for a technological virus or illness",
-      "defending against a cyber-controlled army"
+      "uncovering a conspiracy to replace key political leaders with clones",
+      "infiltrating a top-secret laboratory or facility"
     ]
   },
   "plot.scifi": {
@@ -2452,8 +2452,8 @@
     "category": "plot",
     "total": 185,
     "examples": [
-      "escaping from a black hole or other cosmic danger",
-      "surviving in a space-based zero gravity environment"
+      "exploring abandoned or haunted spaceships",
+      "a team of scientists create a new form of life, but it quickly spirals out of control"
     ]
   },
   "plot.war": {
@@ -2461,8 +2461,8 @@
     "category": "plot",
     "total": 66,
     "examples": [
-      "stopping enemy propaganda or psychological operations",
-      "defending a vital mountain pass against overwhelming enemy forces"
+      "destroying a strategically critical enemy radar installation",
+      "infiltrating enemy fortifications or defenses"
     ]
   },
   "science.astronomy": {
@@ -2470,26 +2470,26 @@
     "category": "science",
     "total": 54,
     "examples": [
-      "quasar",
-      "planet"
+      "dark energy",
+      "cosmic microwave background"
     ]
   },
   "science.chemicalElement": {
     "title": "Chemical elements",
     "category": "science",
-    "total": 146,
+    "total": 304,
     "examples": [
-      "nobelium",
-      "bismuth"
+      "carbon-11",
+      "carbon"
     ]
   },
   "science.constellation": {
     "title": "Constellations",
     "category": "science",
-    "total": 39,
+    "total": 88,
     "examples": [
-      "bootes",
-      "pegasus"
+      "pegasus",
+      "orion"
     ]
   },
   "science.geometry": {
@@ -2497,8 +2497,8 @@
     "category": "science",
     "total": 117,
     "examples": [
-      "voronoi diagram",
-      "fractal pattern"
+      "superellipsoid",
+      "annulus"
     ]
   },
   "science.medicalImages": {
@@ -2506,26 +2506,26 @@
     "category": "science",
     "total": 45,
     "examples": [
-      "thermography",
-      "laparoscopy"
+      "ct scan",
+      "micro-ct"
     ]
   },
   "science.planetBody": {
     "title": "Celestial bodies",
     "category": "science",
-    "total": 39,
+    "total": 224,
     "examples": [
-      "phobos",
-      "haumea"
+      "2002 tc302",
+      "borrelly"
     ]
   },
   "science.robotType": {
     "title": "Robot types",
     "category": "science",
-    "total": 34,
+    "total": 328,
     "examples": [
-      "bomb disposal robot",
-      "automaton"
+      "logistics robot",
+      "sumo-wrestling robot"
     ]
   },
   "science.scifiTech": {
@@ -2533,8 +2533,8 @@
     "category": "science",
     "total": 39,
     "examples": [
-      "dyson sphere",
-      "nanobot swarm"
+      "exosuit",
+      "clone vat"
     ]
   },
   "set.animationStyle": {
@@ -2542,17 +2542,17 @@
     "category": "set",
     "total": 28,
     "examples": [
-      "silhouette animation",
+      "motion graphics",
       "flipbook animation"
     ]
   },
   "set.atmosphereFx": {
     "title": "Atmospheric effects",
     "category": "set",
-    "total": 33,
+    "total": 196,
     "examples": [
-      "rolling clouds",
-      "cosmic dust"
+      "frost smoke",
+      "belt of venus"
     ]
   },
   "set.cameraTechnique": {
@@ -2560,8 +2560,8 @@
     "category": "set",
     "total": 30,
     "examples": [
-      "zoom shot",
-      "drone shot"
+      "whip pan",
+      "pov shot"
     ]
   },
   "set.describeStyle": {
@@ -2569,8 +2569,8 @@
     "category": "set",
     "total": 17756,
     "examples": [
-      "dark turquoise and light yellow",
-      "organic forms"
+      "light silver and dark emerald",
+      "greg capullo"
     ]
   },
   "set.describeSubject": {
@@ -2578,8 +2578,8 @@
     "category": "set",
     "total": 139614,
     "examples": [
-      "a woman in leather jacket and jeans sitting on a chair",
-      "a logo for the company of kenya"
+      "a sculpture of a man standing next to a small stack of books",
+      "a blue and brown dessert with a blue coating"
     ]
   },
   "set.memeDescription": {
@@ -2587,8 +2587,8 @@
     "category": "set",
     "total": 44,
     "examples": [
-      "dat boi meme - frog riding unicycle with \"o shit waddup\" caption",
-      "expectation vs. reality meme - two images contrasting ideal and actual outcomes"
+      "change my mind meme - steven crowder sitting behind \"change my mind\" sign",
+      "chad vs. virgin meme - comparison of stereotypical alpha and beta males"
     ]
   },
   "set.meme": {
@@ -2596,8 +2596,8 @@
     "category": "set",
     "total": 44,
     "examples": [
-      "chad vs. virgin meme",
-      "first world problems meme"
+      "distracted girlfriend meme",
+      "gangnam style meme"
     ]
   },
   "set.moviegenBench": {
@@ -2605,8 +2605,8 @@
     "category": "set",
     "total": 1003,
     "examples": [
-      "Dogs are the players at The World Series Of Poker and they are drinking big bowls of water very sloppily and splashing water on the cards and on the felt of the poker table, one dog poker player is tilting their head sideways in confusion.",
-      "an old man wearing a green dress and a sun hat taking a pleasant stroll in Mumbai India during a colorful festival"
+      "Photorealistic closeup video of two pirate ships battling each other as they sail inside a cup of coffee.",
+      "Pov walkthrough of frozen streets of Manhattan New York City. We see frozen trees, and a frozen empire state building."
     ]
   },
   "set.parti": {
@@ -2614,8 +2614,8 @@
     "category": "set",
     "total": 1632,
     "examples": [
-      "two beat-up baseballs on either side of a yellow basketball",
-      "A photo of a teddy bear made of water."
+      "a small house on a mountain top",
+      "A high resolution photo of a large bowl of ramen. There are several origami boats in the ramen of different colors."
     ]
   },
   "set.scenePacing": {
@@ -2623,8 +2623,8 @@
     "category": "set",
     "total": 30,
     "examples": [
-      "frantic",
-      "deliberate"
+      "erratic",
+      "steady"
     ]
   },
   "set.transition": {
@@ -2632,8 +2632,8 @@
     "category": "set",
     "total": 27,
     "examples": [
-      "wipe",
-      "barn door transition"
+      "light leak transition",
+      "burn transition"
     ]
   },
   "set.vfx": {
@@ -2641,8 +2641,8 @@
     "category": "set",
     "total": 31,
     "examples": [
-      "cgi integration",
-      "volumetric lighting"
+      "holographic projection",
+      "light leak"
     ]
   },
   "sport.all": {
@@ -2650,8 +2650,8 @@
     "category": "sport",
     "total": 470,
     "examples": [
-      "yukigassen",
-      "camel racing"
+      "indoor soccer",
+      "beach tennis"
     ]
   },
   "thing.adjective": {
@@ -2659,17 +2659,17 @@
     "category": "thing",
     "total": 71,
     "examples": [
-      "greasy",
-      "wrinkled"
+      "crinkled",
+      "creased"
     ]
   },
   "thing.armor": {
     "title": "Armor",
     "category": "thing",
-    "total": 33,
+    "total": 171,
     "examples": [
-      "breastplate",
-      "studded leather armor"
+      "scale armor",
+      "leather armor"
     ]
   },
   "thing.city": {
@@ -2677,8 +2677,8 @@
     "category": "thing",
     "total": 216,
     "examples": [
-      "bowling alley",
-      "souvenir shop"
+      "tourist bus",
+      "fire station"
     ]
   },
   "thing.everyday": {
@@ -2686,8 +2686,8 @@
     "category": "thing",
     "total": 243,
     "examples": [
-      "fence",
-      "shrubs"
+      "books",
+      "apron"
     ]
   },
   "thing.fabric": {
@@ -2695,7 +2695,7 @@
     "category": "thing",
     "total": 40,
     "examples": [
-      "corduroy",
+      "polyester",
       "houndstooth"
     ]
   },
@@ -2704,8 +2704,8 @@
     "category": "thing",
     "total": 146,
     "examples": [
-      "chimera",
-      "ground"
+      "throw back",
+      "skeleton"
     ]
   },
   "thing.furniture": {
@@ -2713,8 +2713,8 @@
     "category": "thing",
     "total": 41,
     "examples": [
-      "buffet",
-      "hammock"
+      "bar cart",
+      "bean bag chair"
     ]
   },
   "thing.gadget": {
@@ -2722,8 +2722,8 @@
     "category": "thing",
     "total": 417,
     "examples": [
-      "midi keyboard",
-      "blu-ray player"
+      "digital photo booth",
+      "electronic drum machine"
     ]
   },
   "thing.gemstone": {
@@ -2731,8 +2731,8 @@
     "category": "thing",
     "total": 40,
     "examples": [
-      "amber",
-      "topaz"
+      "diamond",
+      "hematite"
     ]
   },
   "thing.icon": {
@@ -2740,8 +2740,8 @@
     "category": "thing",
     "total": 132,
     "examples": [
-      "sewing machine",
-      "headphones"
+      "badminton",
+      "eye"
     ]
   },
   "thing.material": {
@@ -2749,17 +2749,17 @@
     "category": "thing",
     "total": 43,
     "examples": [
-      "plaster",
-      "rubber"
+      "amber",
+      "ceramic"
     ]
   },
   "thing.metal": {
     "title": "Metals",
     "category": "thing",
-    "total": 30,
+    "total": 273,
     "examples": [
-      "damascus steel",
-      "white gold"
+      "lithium",
+      "patinated bronze"
     ]
   },
   "thing.office": {
@@ -2767,17 +2767,17 @@
     "category": "thing",
     "total": 68,
     "examples": [
-      "safety goggles",
-      "file cabinet"
+      "envelope",
+      "stapler"
     ]
   },
   "thing.pattern": {
     "title": "Patterns",
     "category": "thing",
-    "total": 29,
+    "total": 115,
     "examples": [
-      "stripe",
-      "glen plaid"
+      "mosaic",
+      "quatrefoil"
     ]
   },
   "thing.scary": {
@@ -2785,8 +2785,8 @@
     "category": "thing",
     "total": 211,
     "examples": [
-      "levitation",
-      "ghostly music"
+      "echoing screams",
+      "possessed dolls"
     ]
   },
   "thing.sciFi": {
@@ -2794,8 +2794,8 @@
     "category": "thing",
     "total": 204,
     "examples": [
-      "smart city device",
-      "antigravity transportation system"
+      "solar system exploration vehicle",
+      "personalized fitness trainer device"
     ]
   },
   "thing.space": {
@@ -2803,8 +2803,8 @@
     "category": "thing",
     "total": 159,
     "examples": [
-      "herbig–haro object",
-      "dark nebula"
+      "alpha centauri",
+      "galaxy"
     ]
   },
   "thing.summer": {
@@ -2812,17 +2812,17 @@
     "category": "thing",
     "total": 70,
     "examples": [
-      "lobster roll",
-      "pool noodle"
+      "iced tea",
+      "picnic blanket"
     ]
   },
   "thing.surfaceFinish": {
     "title": "Surface finishes",
     "category": "thing",
-    "total": 36,
+    "total": 164,
     "examples": [
-      "burnished",
-      "mirror"
+      "semi-gloss",
+      "grained"
     ]
   },
   "thing.weapon": {
@@ -2830,17 +2830,17 @@
     "category": "thing",
     "total": 33,
     "examples": [
-      "longbow",
-      "falchion"
+      "rapier",
+      "trident"
     ]
   },
   "thing.woodType": {
     "title": "Wood types",
     "category": "thing",
-    "total": 31,
+    "total": 150,
     "examples": [
-      "yew",
-      "cherry"
+      "plumwood",
+      "acacia"
     ]
   },
   "time.century": {
@@ -2848,8 +2848,8 @@
     "category": "time",
     "total": 37,
     "examples": [
-      "4th century bc",
-      "11th century"
+      "16th century",
+      "4th century"
     ]
   },
   "time.dayOfYear": {
@@ -2857,8 +2857,8 @@
     "category": "day",
     "total": 387,
     "examples": [
-      "march 20",
-      "april 11"
+      "valentine's day",
+      "february 1"
     ]
   },
   "time.decade": {
@@ -2866,8 +2866,8 @@
     "category": "time",
     "total": 35,
     "examples": [
-      "1830s",
-      "40s"
+      "1900s",
+      "20s"
     ]
   },
   "time.era": {
@@ -2875,44 +2875,44 @@
     "category": "time",
     "total": 118,
     "examples": [
-      "northern renaissance",
-      "roaring twenties"
+      "american civil war",
+      "viking age"
     ]
   },
   "time.festival": {
     "title": "Festivals",
     "category": "time",
-    "total": 29,
+    "total": 196,
     "examples": [
-      "diwali",
-      "vesak"
+      "ashura",
+      "cologne carnival"
     ]
   },
   "time.historicalEra": {
     "title": "Historical eras",
     "category": "time",
-    "total": 45,
+    "total": 148,
     "examples": [
-      "byzantine empire",
-      "neolithic era"
+      "late middle ages",
+      "interwar period"
     ]
   },
   "time.season": {
     "title": "Seasons",
     "category": "time",
-    "total": 31,
+    "total": 241,
     "examples": [
-      "early autumn",
-      "late autumn"
+      "lovebug season",
+      "hurricane season"
     ]
   },
   "time.timeOfDay": {
     "title": "Time of day",
     "category": "time",
-    "total": 58,
+    "total": 215,
     "examples": [
-      "break of dawn",
-      "dim-out"
+      "tea-time",
+      "bedtime"
     ]
   },
   "time.year": {
@@ -2920,8 +2920,8 @@
     "category": "year",
     "total": 251,
     "examples": [
-      "2053",
-      "2001"
+      "1972",
+      "2068"
     ]
   },
   "typography.feature": {
@@ -2929,8 +2929,8 @@
     "category": "typography",
     "total": 69,
     "examples": [
-      "cupped serifs",
-      "irregular letterforms"
+      "chunky serifs",
+      "tight kerning"
     ]
   },
   "typography.fontType": {
@@ -2938,8 +2938,8 @@
     "category": "typography",
     "total": 62,
     "examples": [
-      "decorative typography",
-      "old style typography"
+      "bitmap typography",
+      "expanded typography"
     ]
   },
   "typography.font": {
@@ -2947,8 +2947,8 @@
     "category": "typography",
     "total": 89,
     "examples": [
-      "pacifico font",
-      "frutiger font"
+      "jetbrains mono font",
+      "tahoma font"
     ]
   },
   "typography.style": {
@@ -2956,8 +2956,8 @@
     "category": "typography",
     "total": 77,
     "examples": [
-      "ultra expanded style font",
-      "all caps style font"
+      "neon style font",
+      "bubble style font"
     ]
   },
   "typography.typefaceStyle": {
@@ -2965,8 +2965,8 @@
     "category": "typography",
     "total": 46,
     "examples": [
-      "blackletter",
-      "bitmap"
+      "caroline minuscule",
+      "geometric sans"
     ]
   },
   "typography.wordArt": {
@@ -2974,17 +2974,17 @@
     "category": "typography",
     "total": 137,
     "examples": [
-      "sparkly text",
-      "glittery text"
+      "compressed text",
+      "lattice text"
     ]
   },
   "vehicle.aircraft": {
     "title": "Aircraft",
     "category": "vehicle",
-    "total": 40,
+    "total": 126,
     "examples": [
-      "passenger plane",
-      "spacecraft"
+      "air ambulance",
+      "tandem-rotor helicopter"
     ]
   },
   "vehicle.car": {
@@ -2992,8 +2992,8 @@
     "category": "vehicle",
     "total": 329,
     "examples": [
-      "mercedes-benz s-class",
-      "acura cl"
+      "jaguar xe",
+      "mazda cx-7"
     ]
   },
   "vehicle.classicCar": {
@@ -3001,8 +3001,8 @@
     "category": "vehicle",
     "total": 161,
     "examples": [
-      "1950 studebaker champion",
-      "1955 ford thunderbird"
+      "1980 bmw m1",
+      "1914 buick model b-24"
     ]
   },
   "vehicle.famousCar": {
@@ -3010,8 +3010,8 @@
     "category": "vehicle",
     "total": 50,
     "examples": [
-      "the volkswagen beetle from herbie goes to monte carlo",
-      "magnum's ferrari from magnum, p.i"
+      "the ford explorer from jurassic world",
+      "greased lightnin' from grease"
     ]
   },
   "vehicle.fastCar": {
@@ -3019,17 +3019,17 @@
     "category": "vehicle",
     "total": 98,
     "examples": [
-      "bugatti chiron",
-      "bugatti centodieci"
+      "ferrari sf90 stradale",
+      "porsche 911 turbo"
     ]
   },
   "vehicle.motorcycle": {
     "title": "Motorcycles",
     "category": "vehicle",
-    "total": 34,
+    "total": 123,
     "examples": [
-      "adventure bike",
-      "hyperbike"
+      "vintage racer",
+      "motocross"
     ]
   },
   "vehicle.spacecraft": {
@@ -3037,7 +3037,7 @@
     "category": "vehicle",
     "total": 30,
     "examples": [
-      "gunship",
+      "transport vessel",
       "fuel tanker"
     ]
   },
@@ -3046,17 +3046,17 @@
     "category": "vehicle",
     "total": 116,
     "examples": [
-      "monorail",
-      "tugboat"
+      "crane",
+      "airplane"
     ]
   },
   "vehicle.watercraft": {
     "title": "Watercraft",
     "category": "vehicle",
-    "total": 40,
+    "total": 188,
     "examples": [
-      "battleship",
-      "rowboat"
+      "merchantman",
+      "brig"
     ]
   },
   "videoGame.action": {
@@ -3064,8 +3064,8 @@
     "category": "video-game",
     "total": 314,
     "examples": [
-      "reanimating the dead",
-      "zipping through loops"
+      "using gadgets",
+      "hacking"
     ]
   },
   "videoGame.designer": {
@@ -3073,8 +3073,8 @@
     "category": "video-game",
     "total": 68,
     "examples": [
-      "chris hecker",
-      "michel ancel"
+      "kenji eno",
+      "richard rouse iii"
     ]
   },
   "videoGame.engine": {
@@ -3082,8 +3082,8 @@
     "category": "video-game",
     "total": 68,
     "examples": [
-      "unreal engine",
-      "construct 3"
+      "snowdrop engine",
+      "id tech"
     ]
   },
   "videoGame.game": {
@@ -3091,8 +3091,8 @@
     "category": "video-game",
     "total": 320,
     "examples": [
-      "medal of honor: allied assault",
-      "metal slug"
+      "super smash bros",
+      "grand theft auto iv"
     ]
   },
   "videoGame.region": {
@@ -3100,8 +3100,8 @@
     "category": "video-game",
     "total": 118,
     "examples": [
-      "solar kingdom",
-      "avalon region"
+      "obsidian region",
+      "sugar rush kingdom"
     ]
   },
   "word.adjective": {
@@ -3109,8 +3109,8 @@
     "category": "word",
     "total": 4992,
     "examples": [
-      "spectacular",
-      "kinder"
+      "fusty",
+      "unlawful"
     ]
   },
   "word.adverb": {
@@ -3118,8 +3118,8 @@
     "category": "word",
     "total": 1817,
     "examples": [
-      "plain",
-      "silently"
+      "realistically",
+      "earnestly"
     ]
   },
   "word.noun": {
@@ -3127,17 +3127,17 @@
     "category": "word",
     "total": 24409,
     "examples": [
-      "cycle",
-      "rarity"
+      "zinc",
+      "diction"
     ]
   },
   "word.onomatopoeia": {
     "title": "Onomatopoeia",
     "category": "word",
-    "total": 30,
+    "total": 159,
     "examples": [
-      "crash",
-      "zoom"
+      "whimper",
+      "bash"
     ]
   },
   "word.verb": {
@@ -3145,8 +3145,8 @@
     "category": "word",
     "total": 9980,
     "examples": [
-      "done",
-      "elicited"
+      "clinked",
+      "map"
     ]
   }
 }
