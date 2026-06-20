@@ -2477,10 +2477,10 @@
   "science.chemicalElement": {
     "title": "Chemical elements",
     "category": "science",
-    "total": 304,
+    "total": 118,
     "examples": [
-      "carbon-11",
-      "carbon"
+      "iodine",
+      "einsteinium"
     ]
   },
   "science.constellation": {
@@ -2488,8 +2488,8 @@
     "category": "science",
     "total": 88,
     "examples": [
-      "pegasus",
-      "orion"
+      "aquarius",
+      "leo"
     ]
   },
   "science.geometry": {
@@ -2497,8 +2497,17 @@
     "category": "science",
     "total": 117,
     "examples": [
-      "superellipsoid",
-      "annulus"
+      "crystallographic symmetry",
+      "disdyakis dodecahedron"
+    ]
+  },
+  "science.isotope": {
+    "title": "Isotopes",
+    "category": "science",
+    "total": 56,
+    "examples": [
+      "chlorine-36",
+      "nitrogen-15"
     ]
   },
   "science.medicalImages": {
@@ -2506,8 +2515,8 @@
     "category": "science",
     "total": 45,
     "examples": [
-      "ct scan",
-      "micro-ct"
+      "echocardiography",
+      "mammography"
     ]
   },
   "science.planetBody": {
@@ -2515,8 +2524,8 @@
     "category": "science",
     "total": 224,
     "examples": [
-      "2002 tc302",
-      "borrelly"
+      "eunomia",
+      "tempel 1"
     ]
   },
   "science.robotType": {
@@ -2524,8 +2533,8 @@
     "category": "science",
     "total": 328,
     "examples": [
-      "logistics robot",
-      "sumo-wrestling robot"
+      "robotic orthosis",
+      "glider drone"
     ]
   },
   "science.scifiTech": {
@@ -2533,8 +2542,8 @@
     "category": "science",
     "total": 39,
     "examples": [
-      "exosuit",
-      "clone vat"
+      "replicator",
+      "arc reactor"
     ]
   },
   "set.animationStyle": {
@@ -2542,8 +2551,8 @@
     "category": "set",
     "total": 28,
     "examples": [
-      "motion graphics",
-      "flipbook animation"
+      "morphing animation",
+      "cgi animation"
     ]
   },
   "set.atmosphereFx": {
@@ -2551,8 +2560,8 @@
     "category": "set",
     "total": 196,
     "examples": [
-      "frost smoke",
-      "belt of venus"
+      "flat light",
+      "freezing drizzle"
     ]
   },
   "set.cameraTechnique": {
@@ -2560,8 +2569,8 @@
     "category": "set",
     "total": 30,
     "examples": [
-      "whip pan",
-      "pov shot"
+      "dolly zoom",
+      "panning shot"
     ]
   },
   "set.describeStyle": {
@@ -2569,8 +2578,8 @@
     "category": "set",
     "total": 17756,
     "examples": [
-      "light silver and dark emerald",
-      "greg capullo"
+      "trompe-l'oeil technique",
+      "handcrafted objects"
     ]
   },
   "set.describeSubject": {
@@ -2578,8 +2587,8 @@
     "category": "set",
     "total": 139614,
     "examples": [
-      "a sculpture of a man standing next to a small stack of books",
-      "a blue and brown dessert with a blue coating"
+      "a waterfall from an ice planet and large mountains",
+      "a female demon in an anime style pose"
     ]
   },
   "set.memeDescription": {
