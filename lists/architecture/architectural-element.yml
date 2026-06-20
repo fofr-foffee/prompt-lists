@@ -14,7 +14,6 @@ beam
 buttress
 cantilever
 caryatid
-ceiling
 clerestory
 colonnade
 column
@@ -23,13 +22,11 @@ cornice
 courtyard
 cupola
 dome
-door
 doorway
 elevator
 entablature
 escalator
 facade
-floor
 flying buttress
 frieze
 gable
@@ -60,11 +57,8 @@ skylight
 spire
 stained glass window
 staircase
-stairs
 transom
 truss
 turret
 veranda
 vestibule
-wall
-window
