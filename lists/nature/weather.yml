@@ -2,6 +2,7 @@
 title: Weather
 category: nature
 ---
+acid rain
 altocumulus clouds
 altostratus clouds
 asperitas clouds
@@ -23,6 +24,7 @@ cirrocumulus clouds
 cirrostratus clouds
 cirrus clouds
 clear
+cloudburst
 cloudy
 cold
 cold front
@@ -45,6 +47,7 @@ dry
 dust storm
 fire rainbow
 flood
+flurry
 fog
 fogbow
 foggy
@@ -56,6 +59,7 @@ frosty
 frozen drizzle
 frozen rain
 funnel cloud
+gale
 glaze
 graupel
 gusts of wind
@@ -63,6 +67,7 @@ haboob
 hail
 hailstorm
 halo around the moon
+haze
 hazy
 heat lightning
 heatwave
@@ -76,7 +81,10 @@ ice pellets
 ice storm
 icicles
 icy
+indian summer
 kelvin-helmholtz clouds
+lake-effect snow
+landspout
 lenticular clouds
 light pillar
 light snow
@@ -99,6 +107,7 @@ nor'easter
 occluded front
 overcast
 partly cloudy
+polar vortex
 powder snow
 rain shower
 rainbow
@@ -110,6 +119,7 @@ sirocco wind
 sizzling
 sleet
 smattering
+smog
 smoggy
 snow flurry
 snow squall
@@ -129,13 +139,16 @@ sultry
 sun dog
 sun halo
 sunny
+sunshower
 sweltering
 tempest
 thunder
+thunder snow
 thunderbolt
 thundersnow
 thunderstorm
 tornado
+torrential rain
 twister
 typhoon
 virga
