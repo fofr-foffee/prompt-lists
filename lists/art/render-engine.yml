@@ -4,6 +4,7 @@ category: art
 ---
 ambient occlusion
 architectural visualization
+arnold
 arnold render
 cell shading
 clay render
@@ -13,9 +14,13 @@ eevee
 flat shading
 global illumination
 gouraud shading
+hardware renderer
+iray
 keyshot
 line art render
 lumion
+luxcore
+marmoset toolbag
 mental ray
 non-photorealistic rendering
 octane render
@@ -29,10 +34,14 @@ ray tracing
 real-time rendering
 redshift
 renderman
+software renderer
 subsurface scattering
 toon shading
+twinmotion
 unity engine
+unity hdrp
 unreal engine
+unreal engine 5
 v-ray
 volumetric render
 voxel render

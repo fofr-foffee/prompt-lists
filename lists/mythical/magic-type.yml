@@ -4,9 +4,11 @@ category: mythical
 ---
 abjuration
 aeromancy
+air magic
 alchemy
 astral magic
 biomancy
+black magic
 blood magic
 chaos magic
 chronomancy
@@ -16,15 +18,22 @@ cryomancy
 dark magic
 divination
 druidism
+earth magic
 elemental magic
 enchantment
 evocation
+fire magic
 geomancy
+grey magic
+healing magic
 high magic
 holy magic
 hydromancy
+ice magic
 illusion
 light magic
+lightning magic
+nature magic
 necromancy
 pyromancy
 runecraft
@@ -37,3 +46,6 @@ transmutation
 void magic
 voodoo
 warding
+water magic
+white magic
+wind magic
