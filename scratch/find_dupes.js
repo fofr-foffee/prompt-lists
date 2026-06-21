@@ -44,14 +44,11 @@ function normalizeSpelling(word) {
 }
 
 function normalizePunctuationAndSpaces(word) {
-  return word.toLowerCase()
-    .replace(/[^a-z0-9]/g, '') // Remove all non-alphanumeric chars (hyphens, spaces, apostrophes, accents)
-    .replace(/[éèêë]/g, 'e')
-    .replace(/[àâä]/g, 'a')
-    .replace(/[ïî]/g, 'i')
-    .replace(/[ôö]/g, 'o')
-    .replace(/[ûüù]/g, 'u')
-    .replace(/[ç]/g, 'c');
+  return word
+    .normalize("NFD")
+    .toLowerCase()
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]/g, '');
 }
 
 function normalizePlural(word) {
@@ -167,5 +164,11 @@ function processDir(dir) {
 }
 
 processDir(rootDir)
+
+fs.writeFileSync(
+  path.join(import.meta.dirname || 'scratch', 'results.json'),
+  JSON.stringify(results, null, 2),
+  'utf8'
+);
 
 console.log(JSON.stringify(results, null, 2))
