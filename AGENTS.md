@@ -1,4 +1,4 @@
-# AGENTS.md — working this repo with the swarm
+# AGENTS.md
 
 This is **prompt-lists**: categorised lists of things for AI image/media prompt
 generation, published as an npm package. It is a **content/data repo, not app code** —
@@ -51,3 +51,25 @@ Conventions: entries **lowercase**, one per line, **no duplicates**, kept tidy
 
 ## Definition of done
 The `.yml` is valid, conventions hold, the PR body explains the change (+ research sources where relevant).
+
+## Category & list conventions (read before editing)
+
+Some categories/lists are NOT free-form and must not be expanded, deduped, or moved
+into casually:
+
+- **`lists/set/`** = pre-made SETS of items / fixed reference collections — NOT "film
+  sets". Do not put cinematic/video terms here. In particular these are FIXED reference
+  data — **do not add, remove, dedupe, or reorder them**:
+  - `set/parti.yml` (the PartiPrompts benchmark)
+  - `set/moviegen-bench.yml` (a published eval set)
+  - `set/describe-style.yml`, `set/describe-subject.yml`
+- **Cinematic / video terms** (camera techniques, transitions, vfx, atmosphere fx, scene
+  pacing, animation styles, lighting) belong in **`lists/cinematic/`**, not `set/`.
+- **`lists/word/`** (`adjective`, `adverb`, `noun`, `verb`) are reference parts-of-speech
+  word lists — **leave them as-is, do not expand**. (`word/onomatopoeia.yml` is a normal
+  curated list and is fine to grow.)
+- **`lists/mythical/magic-the-gathering.yml`** is a fixed card-set list — **do not expand**.
+- **`lists/geography/`** (city, country, language, ethnic-group, nationality, territory)
+  is reference data, much of it externally sourced — do not bulk-expand or reformat.
+
+When in doubt whether a list is "curate-able" vs fixed reference data, ask before editing.
